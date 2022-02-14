@@ -1,0 +1,192 @@
+{
+   "blacklistbox": [
+      {
+          "maintainer": "Fission Relays",
+          "mainurl": "https://fissionrelays.net/",
+          "category": "tor exits nodes",
+          "url": "https://lists.fissionrelays.net/tor/exits-ipv4.txt",
+          "list": "HN-BLACKLIST-TOR-EXITS-NODES",
+          "comment": "TOR-EXITS-NODES",
+          "delimiter": "",
+          "mask": false,
+          "subnet": ""
+      },
+      {
+          "maintainer": "Fission Relays",
+          "mainurl": "https://fissionrelays.net/",
+          "category": "tor relays",
+          "url": "https://lists.fissionrelays.net/tor/relays-ipv4.txt",
+          "list": "HN-BLACKLIST-TOR-RELAYS",
+          "comment": "TOR-RELAYS",
+          "delimiter": "",
+          "mask": false,
+          "subnet": ""
+      },
+      {
+          "maintainer": "Feodo Tracker by Abuse.ch",
+          "mainurl": "https://feodotracker.abuse.ch/",
+          "category": "malware, botnet",
+          "url": "https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt",
+          "list": "HN-BLACKLIST-FEODOTRACKER-C2",
+          "comment": "FEODOTRACKER-C2",
+          "delimiter": "",
+          "mask": false,
+          "subnet": ""
+      },
+      {
+          "maintainer": "Feodo Tracker by Abuse.ch",
+          "mainurl": "https://feodotracker.abuse.ch/",
+          "category": "malware, botnet",
+          "url": "https://feodotracker.abuse.ch/downloads/ipblocklist.txt",
+          "list": "HN-BLACKLIST-FEODOTRACKER-C2-IOCs",
+          "comment": "FEODOTRACKER-C2-IOCs",
+          "delimiter": "",
+          "mask": false,
+          "subnet": ""
+      },
+      {
+          "maintainer": "Feodo Tracker by Abuse.ch",
+          "mainurl": "https://feodotracker.abuse.ch/",
+          "category": "malware, botnet",
+          "url": "https://feodotracker.abuse.ch/downloads/ipblocklist_aggressive.txt",
+          "list": "HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE",
+          "comment": "FEODOTRACKER-C2-IOCs-AGGRESIVE",
+          "delimiter": "",
+          "mask": false,
+          "subnet": ""
+      },
+      {
+          "maintainer": "The Spamhaus Project",
+          "mainurl": "https://spamhaus.org/",
+          "category": "reputation, spam",
+          "url": "https://www.spamhaus.org/drop/drop.txt",
+          "list": "HN-BLACKLIST-SPAMHAUS",
+          "comment": "SPAMHAUS-DROP",
+          "delimiter": "",
+          "mask": true,
+          "subnet": ""
+      },
+      {
+          "maintainer": "The Spamhaus Project",
+          "mainurl": "https://spamhaus.org/",
+          "category": "reputation",
+          "url": "https://www.spamhaus.org/drop/edrop.txt",
+          "list": "HN-BLACKLIST-SPAMHAUS",
+          "comment": "SPAMHAUS-EDROP",
+          "delimiter": "",
+          "mask": true,
+          "subnet": ""
+      },
+      {
+          "maintainer": "DShield | Internet Security",
+          "mainurl": "https://dshield.org/",
+          "category": "attacks",
+          "url": "https://feeds.dshield.org/block.txt",
+          "list": "HN-BLACKLIST-DSHIELD",
+          "comment": "DSHIELD",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "/24"
+      },
+      {
+          "maintainer": "My IP Address | Blacklist IP",
+          "mainurl": "https://myip.ms/",
+          "category": "abuse, webbot",
+          "url": "https://myip.ms/files/blacklist/general/latest_blacklist.txt",
+          "list": "HN-BLACKLIST-MYIPMS",
+          "comment": "MYIPMS-DATABASE",
+          "delimiter": "",
+          "mask": false,
+          "subnet": ""
+      },
+      {
+          "maintainer": "Yoyo Internet Services",
+          "mainurl": "https://yoyo.org/",
+          "category": "adservers",
+          "url": "https://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=0&mimetype=plaintext",
+          "list": "HN-BLACKLIST-ADS-YOYO",
+          "comment": "PGL-YOYO-ADS",
+          "delimiter": "",
+          "mask": false,
+          "subnet": ""
+      },
+      {
+          "maintainer": "Okean",
+          "mainurl": "https://www.okean.com/",
+          "category": "cidr",
+          "url": "https://www.okean.com/chinacidr.txt",
+          "list": "HN-BLACKLIST-CHINA-CIDR",
+          "comment": "CHINA-CIDR-BLOCKS",
+          "delimiter": "",
+          "mask": true,
+          "subnet": ""
+      },
+      {
+          "maintainer": "Okean",
+          "mainurl": "https://www.okean.com/",
+          "category": "cidr",
+          "url": "https://www.okean.com/sinokoreacidr.txt",
+          "list": "HN-BLACKLIST-CHINA-KOREA-CIDR",
+          "comment": "CHINA-KOREA-CIDR-BLOCKS",
+          "delimiter": "",
+          "mask": true,
+          "subnet": ""
+      },
+      {
+          "maintainer": "Fail2Ban-Reporting Service",
+          "mainurl": "https://blocklist.de/",
+          "category": "attacks",
+          "url": "http://lists.blocklist.de/lists/all.txt",
+          "list": "HN-BLACKLIST-BLOCKLIST.DE-ALL",
+          "comment": "ALL-BLOCKLIST.DE",
+          "delimiter": "",
+          "mask": false,
+          "subnet": ""
+      },
+      {
+          "maintainer": "Fail2Ban-Reporting Service",
+          "mainurl": "https://blocklist.de/",
+          "category": "attacks, bots",
+          "url": "https://lists.blocklist.de/lists/bots.txt",
+          "list": "HN-BLACKLIST-BLOCKLIST.DE-BOTS",
+          "comment": "BOTS-BLOCKLIST.DE",
+          "delimiter": "",
+          "mask": false,
+          "subnet": ""
+      },
+      {
+          "maintainer": "FireHOL",
+          "mainurl": "https://firehol.org/",
+          "category": "attacks",
+          "url": "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/firehol_level1/master/ip.list",
+          "list": "HN-BLACKLIST-FIREHOL-LEVEL1",
+          "comment": "FIREHOL-LEVEL1",
+          "delimiter": "",
+          "mask": true,
+          "subnet": ""
+      },
+      {
+          "maintainer": "BadIPs",
+          "mainurl": "https://badips.com",
+          "category": "malware",
+          "url": "https://hosts.ubuntu101.co.za/badips.txt",
+          "list": "HN-BLACKLIST-BADIPS",
+          "comment": "BADIPS",
+          "delimiter": "",
+          "mask": true,
+          "subnet": ""
+      },
+      {
+          "maintainer": "ScopServ International Inc.",
+          "mainurl": "http://www.voipbl.org/",
+          "category": "attacks, voip",
+          "url": "http://www.voipbl.org/update/",
+          "list": "HN-BLACKLIST-VOIPBL",
+          "comment": "VOIPBL",
+          "delimiter": " ",
+          "mask": true,
+          "subnet": ""
+      }
+   ]
+}
+
