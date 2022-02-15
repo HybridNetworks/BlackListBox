@@ -26,6 +26,7 @@ The links below will direct you to the processed versions of the files in this r
 | HN-BLACKLIST-FEODOTRACKER-C2.rsc                 | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-FEODOTRACKER-C2.rsc) |
 | HN-BLACKLIST-FIREHOL-LEVEL1.rsc                  | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-FIREHOL-LEVEL1.rsc) |
 | HN-BLACKLIST-MYIPMS.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-MYIPMS.rsc) |
+| HN-BLACKLIST-MYIPMS-IPv6.rsc                          | Mikrotik RouterOS | IPv6     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-MYIPMS-IPv6.rsc) |
 | HN-BLACKLIST-SPAMHAUS.rsc                        | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-SPAMHAUS.rsc) |
 | HN-BLACKLIST-TOR-EXITS-NODES.rsc                 | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-EXITS-NODES.rsc) |
 | HN-BLACKLIST-TOR-EXITS-NODES-IPv6.rsc                 | Mikrotik RouterOS | IPv6     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-EXITS-NODES-IPv6.rsc) |
