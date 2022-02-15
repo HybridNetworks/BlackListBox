@@ -33,7 +33,8 @@ The links below will direct you to the processed versions of the files in this r
 | HN-BLACKLIST-TOR-RELAYS.rsc                      | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-RELAYS.rsc) |
 | HN-BLACKLIST-TOR-RELAYS-IPv6.rsc                      | Mikrotik RouterOS | IPv6     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-RELAYS-IPv6.rsc) |
 | HN-BLACKLIST-VOIPBL.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-VOIPBL.rsc) |
-
+| HN-BLACKLIST-IPSUM-TIF.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-IPSUM-TIF.rsc) |
+| HN-BLACKLIST-GREENSNOW.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-GREENSNOW.rsc) |
 
 ## License
 
