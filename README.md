@@ -12,24 +12,26 @@ BlackListBox is an integrated blacklist database autoupdate solution.
 
 The links below will direct you to the processed versions of the files in this repository. (Files are updated daily)
 
-| File Name                                        | Format   | Official                                                             |
-| ------------------------------------------------ | -------- | -------------------------------------------------------------------- |
-| HN-BLACKLIST-ADS-YOYO.rsc                        | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-ADS-YOYO.rsc) |
-| HN-BLACKLIST-BADIPS.rsc                          | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-BADIPS.rsc) |
-| HN-BLACKLIST-BLOCKLIST.DE-ALL.rsc                | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-BLOCKLIST.DE-ALL.rsc) |
-| HN-BLACKLIST-BLOCKLIST.DE-BOTS.rsc               | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-BLOCKLIST.DE-BOTS.rsc) |
-| HN-BLACKLIST-CHINA-CIDR.rsc                      | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-CHINA-CIDR.rsc) |
-| HN-BLACKLIST-CHINA-KOREA-CIDR.rsc                | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-CHINA-KOREA-CIDR.rsc) |
-| HN-BLACKLIST-DSHIELD.rsc                         | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-DSHIELD.rsc) |
-| HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE.rsc  | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE.rsc) |
-| HN-BLACKLIST-FEODOTRACKER-C2-IOCs.rsc            | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-FEODOTRACKER-C2-IOCs.rsc) |
-| HN-BLACKLIST-FEODOTRACKER-C2.rsc                 | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-FEODOTRACKER-C2.rsc) |
-| HN-BLACKLIST-FIREHOL-LEVEL1.rsc                  | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-FIREHOL-LEVEL1.rsc) |
-| HN-BLACKLIST-MYIPMS.rsc                          | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-MYIPMS.rsc) |
-| HN-BLACKLIST-SPAMHAUS.rsc                        | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-SPAMHAUS.rsc) |
-| HN-BLACKLIST-TOR-EXITS-NODES.rsc                 | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-EXITS-NODES.rsc) |
-| HN-BLACKLIST-TOR-RELAYS.rsc                      | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-RELAYS.rsc) |
-| HN-BLACKLIST-VOIPBL.rsc                          | Mikrotik RouterOS | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-VOIPBL.rsc) |
+| File Name                                        | Format            | Protocol | Official                                                             |
+| ------------------------------------------------ | ----------------- | -------- | -------------------------------------------------------------------- |
+| HN-BLACKLIST-ADS-YOYO.rsc                        | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-ADS-YOYO.rsc) |
+| HN-BLACKLIST-BADIPS.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-BADIPS.rsc) |
+| HN-BLACKLIST-BLOCKLIST.DE-ALL.rsc                | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-BLOCKLIST.DE-ALL.rsc) |
+| HN-BLACKLIST-BLOCKLIST.DE-BOTS.rsc               | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-BLOCKLIST.DE-BOTS.rsc) |
+| HN-BLACKLIST-CHINA-CIDR.rsc                      | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-CHINA-CIDR.rsc) |
+| HN-BLACKLIST-CHINA-KOREA-CIDR.rsc                | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-CHINA-KOREA-CIDR.rsc) |
+| HN-BLACKLIST-DSHIELD.rsc                         | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-DSHIELD.rsc) |
+| HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE.rsc  | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE.rsc) |
+| HN-BLACKLIST-FEODOTRACKER-C2-IOCs.rsc            | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-FEODOTRACKER-C2-IOCs.rsc) |
+| HN-BLACKLIST-FEODOTRACKER-C2.rsc                 | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-FEODOTRACKER-C2.rsc) |
+| HN-BLACKLIST-FIREHOL-LEVEL1.rsc                  | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-FIREHOL-LEVEL1.rsc) |
+| HN-BLACKLIST-MYIPMS.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-MYIPMS.rsc) |
+| HN-BLACKLIST-SPAMHAUS.rsc                        | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-SPAMHAUS.rsc) |
+| HN-BLACKLIST-TOR-EXITS-NODES.rsc                 | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-EXITS-NODES.rsc) |
+| HN-BLACKLIST-TOR-EXITS-NODES-IPv6.rsc                 | Mikrotik RouterOS | IPv6     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-EXITS-NODES-IPv6.rsc) |
+| HN-BLACKLIST-TOR-RELAYS.rsc                      | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-RELAYS.rsc) |
+| HN-BLACKLIST-TOR-RELAYS-IPv6.rsc                      | Mikrotik RouterOS | IPv6     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-RELAYS-IPv6.rsc) |
+| HN-BLACKLIST-VOIPBL.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-VOIPBL.rsc) |
 
 
 ## License
