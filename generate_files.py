@@ -24,7 +24,7 @@ def generate_output_folder() -> None:
 # Save File
 ################################################################################
 
-def saveFile(final_list, name_list, comment_list, maintainer_list, mainurl_list, category_list):
+def saveFile(final_list, name_list, comment_list, maintainer_list, mainurl_list, category_list, protocol_list):
     listEnd=[]
     for i in final_list:
         listEnd.append("add list=" + name_list + " comment=" + comment_list + " " + "address=" + i + "\n")
@@ -56,7 +56,13 @@ def saveFile(final_list, name_list, comment_list, maintainer_list, mainurl_list,
     finalFile.write("#\n")
     finalFile.write("# ============================================================\n")
     finalFile.write("\n")
-    finalFile.write("/ip firewall address-list" + "\n")
+
+    if protocol_list == "IPv4":
+        finalFile.write("/ip firewall address-list" + "\n")
+
+    if protocol_list == "IPv6":
+        finalFile.write("/ipv6 firewall address-list" + "\n")
+    
     finalFile.writelines(listEnd)
     finalFile.close() 
 
@@ -64,7 +70,7 @@ def saveFile(final_list, name_list, comment_list, maintainer_list, mainurl_list,
 # Download List
 ################################################################################
 
-def downloadNow(url_list, name_list, comment_list, delimiter_list, mask_list, custom_list, maintainer_list, mainurl_list, category_list) -> None:
+def downloadNow(url_list, name_list, comment_list, delimiter_list, mask_list, custom_list, maintainer_list, mainurl_list, category_list, protocol_list) -> None:
     try:
         response = urlopen(url_list).read()
         response_data = response.decode('utf-8')
@@ -72,27 +78,45 @@ def downloadNow(url_list, name_list, comment_list, delimiter_list, mask_list, cu
             response_data = response_data.replace(delimiter_list, "\n")
 
         response_list = response_data.split("\n")
+        
         re_ip = re.compile(r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}')
         re_ip_mask = re.compile(r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\/\d{1,2}')
-        lst=[]
-        if mask_list:
+
+        re_ip_v6 = re.compile(r'(?:^|(?<=\s))(([0-9a-fA-F]{1,4}:){7,7}[0-9a-fA-F]{1,4}|([0-9a-fA-F]{1,4}:){1,7}:|([0-9a-fA-F]{1,4}:){1,6}:[0-9a-fA-F]{1,4}|([0-9a-fA-F]{1,4}:){1,5}(:[0-9a-fA-F]{1,4}){1,2}|([0-9a-fA-F]{1,4}:){1,4}(:[0-9a-fA-F]{1,4}){1,3}|([0-9a-fA-F]{1,4}:){1,3}(:[0-9a-fA-F]{1,4}){1,4}|([0-9a-fA-F]{1,4}:){1,2}(:[0-9a-fA-F]{1,4}){1,5}|[0-9a-fA-F]{1,4}:((:[0-9a-fA-F]{1,4}){1,6})|:((:[0-9a-fA-F]{1,4}){1,7}|:)|fe80:(:[0-9a-fA-F]{0,4}){0,4}%[0-9a-zA-Z]{1,}|::(ffff(:0{1,4}){0,1}:){0,1}((25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])\.){3,3}(25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])|([0-9a-fA-F]{1,4}:){1,4}:((25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])\.){3,3}(25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9]))(?=\s|$)')
+
+        if protocol_list == "IPv4":
+            lst=[]
+            if mask_list:
+                for line in response_list:
+                    ip = re.findall(re_ip_mask,line)
+                    if ip:
+                        if custom_list:
+                            lst.append(str(ip[0]).replace("['", "").replace("']", "") + custom_list)
+                        else:
+                            lst.append(str(ip[0]).replace("['", "").replace("']", ""))
+            else:
+                for line in response_list:
+                    ip = re.findall(re_ip,line)
+                    if ip:
+                        if custom_list:
+                            lst.append(str(ip[0]).replace("['", "").replace("']", "") + custom_list)
+                        else:
+                            lst.append(str(ip[0]).replace("['", "").replace("']", ""))
+            
+            saveFile(lst, name_list, comment_list, maintainer_list, mainurl_list, category_list, protocol_list)
+
+        if protocol_list == "IPv6":
+            lst=[]
             for line in response_list:
-                ip = re.findall(re_ip_mask,line)
+                ip = re.search(re_ip_v6,line)
                 if ip:
                     if custom_list:
                         lst.append(str(ip[0]).replace("['", "").replace("']", "") + custom_list)
                     else:
                         lst.append(str(ip[0]).replace("['", "").replace("']", ""))
-        else:
-            for line in response_list:
-                ip = re.findall(re_ip,line)
-                if ip:
-                    if custom_list:
-                        lst.append(str(ip[0]).replace("['", "").replace("']", "") + custom_list)
-                    else:
-                        lst.append(str(ip[0]).replace("['", "").replace("']", ""))
-        
-        saveFile(lst, name_list, comment_list, maintainer_list, mainurl_list, category_list)
+            
+            saveFile(lst, name_list, comment_list, maintainer_list, mainurl_list, category_list, protocol_list)
+
     except:
         print("An exception occurred: " + url_list)
 
@@ -104,7 +128,7 @@ def startNow() -> None:
     f = open('sites.json',)
     data = json.load(f)
     for i in data['blacklistbox']:
-        downloadNow(i['url'], i['list'], i['comment'], i['delimiter'], i['mask'], i['subnet'], i['maintainer'], i['mainurl'], i['category'])
+        downloadNow(i['url'], i['list'], i['comment'], i['delimiter'], i['mask'], i['subnet'], i['maintainer'], i['mainurl'], i['category'], i['protocol'])
     f.close()
 
 ################################################################################
