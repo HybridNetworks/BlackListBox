@@ -9,7 +9,20 @@
           "comment": "TOR-EXITS-NODES",
           "delimiter": "",
           "mask": false,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
+      },
+      {
+          "maintainer": "Fission Relays",
+          "mainurl": "https://fissionrelays.net/",
+          "category": "tor exits nodes",
+          "url": "https://lists.fissionrelays.net/tor/exits-ipv6.txt",
+          "list": "HN-BLACKLIST-TOR-EXITS-NODES-IPv6",
+          "comment": "TOR-EXITS-NODES-IPv6",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv6"
       },
       {
           "maintainer": "Fission Relays",
@@ -20,7 +33,8 @@
           "comment": "TOR-RELAYS",
           "delimiter": "",
           "mask": false,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "Feodo Tracker by Abuse.ch",
@@ -31,7 +45,8 @@
           "comment": "FEODOTRACKER-C2",
           "delimiter": "",
           "mask": false,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "Feodo Tracker by Abuse.ch",
@@ -42,7 +57,8 @@
           "comment": "FEODOTRACKER-C2-IOCs",
           "delimiter": "",
           "mask": false,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "Feodo Tracker by Abuse.ch",
@@ -53,7 +69,8 @@
           "comment": "FEODOTRACKER-C2-IOCs-AGGRESIVE",
           "delimiter": "",
           "mask": false,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "The Spamhaus Project",
@@ -64,7 +81,8 @@
           "comment": "SPAMHAUS-DROP",
           "delimiter": "",
           "mask": true,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "The Spamhaus Project",
@@ -75,7 +93,8 @@
           "comment": "SPAMHAUS-EDROP",
           "delimiter": "",
           "mask": true,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "DShield | Internet Security",
@@ -86,7 +105,8 @@
           "comment": "DSHIELD",
           "delimiter": "",
           "mask": false,
-          "subnet": "/24"
+          "subnet": "/24",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "My IP Address | Blacklist IP",
@@ -97,7 +117,8 @@
           "comment": "MYIPMS-DATABASE",
           "delimiter": "",
           "mask": false,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "Yoyo Internet Services",
@@ -108,7 +129,8 @@
           "comment": "PGL-YOYO-ADS",
           "delimiter": "",
           "mask": false,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "Okean",
@@ -119,7 +141,8 @@
           "comment": "CHINA-CIDR-BLOCKS",
           "delimiter": "",
           "mask": true,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "Okean",
@@ -130,7 +153,8 @@
           "comment": "CHINA-KOREA-CIDR-BLOCKS",
           "delimiter": "",
           "mask": true,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "Fail2Ban-Reporting Service",
@@ -141,7 +165,8 @@
           "comment": "ALL-BLOCKLIST.DE",
           "delimiter": "",
           "mask": false,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "Fail2Ban-Reporting Service",
@@ -152,7 +177,8 @@
           "comment": "BOTS-BLOCKLIST.DE",
           "delimiter": "",
           "mask": false,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "FireHOL",
@@ -163,7 +189,8 @@
           "comment": "FIREHOL-LEVEL1",
           "delimiter": "",
           "mask": true,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "BadIPs",
@@ -174,7 +201,8 @@
           "comment": "BADIPS",
           "delimiter": "",
           "mask": true,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
       },
       {
           "maintainer": "ScopServ International Inc.",
@@ -185,8 +213,20 @@
           "comment": "VOIPBL",
           "delimiter": " ",
           "mask": true,
-          "subnet": ""
+          "subnet": "",
+          "protocol": "IPv4"
+      },
+      {
+          "maintainer": "Ultimate Hosts Blacklist",
+          "mainurl": "https://github.com/Ultimate-Hosts-Blacklist/",
+          "category": "attacks, wordpress",
+          "url": "https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt",
+          "list": "HN-BLACKLIST-WP",
+          "comment": "¨Top Attacking Wordpress Sites",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
-
