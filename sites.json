@@ -37,6 +37,18 @@
           "protocol": "IPv4"
       },
       {
+          "maintainer": "Fission Relays",
+          "mainurl": "https://fissionrelays.net/",
+          "category": "tor relays",
+          "url": "https://lists.fissionrelays.net/tor/relays-ipv6.txt",
+          "list": "HN-BLACKLIST-TOR-RELAYS-IPv6",
+          "comment": "TOR-RELAYS-IPv6",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv6"
+      },
+      {
           "maintainer": "Feodo Tracker by Abuse.ch",
           "mainurl": "https://feodotracker.abuse.ch/",
           "category": "malware, botnet",
