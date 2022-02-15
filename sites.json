@@ -263,6 +263,18 @@
           "mask": false,
           "subnet": "",
           "protocol": "IPv4"
+      },
+      {
+          "maintainer": "GreenSnow by PlanetHoster",
+          "mainurl": "https://greensnow.co/",
+          "category": "attacks, ssh, portscanner, more",
+          "url": "https://blocklist.greensnow.co/greensnow.txt",
+          "list": "HN-BLACKLIST-GREENSNOW",
+          "comment": "GREENSNOW-BLACKLIST",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
