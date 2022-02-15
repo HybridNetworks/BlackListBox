@@ -133,6 +133,18 @@
           "protocol": "IPv4"
       },
       {
+          "maintainer": "My IP Address | Blacklist IP",
+          "mainurl": "https://myip.ms/",
+          "category": "abuse, webbot",
+          "url": "https://myip.ms/files/blacklist/general/latest_blacklist.txt",
+          "list": "HN-BLACKLIST-MYIPMS-IPv6",
+          "comment": "MYIPMS-DATABASE-IPv6",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv6"
+      },
+      {
           "maintainer": "Yoyo Internet Services",
           "mainurl": "https://yoyo.org/",
           "category": "adservers",
