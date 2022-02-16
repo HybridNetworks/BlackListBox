@@ -5,6 +5,8 @@
   <hr>
 </div>
 
+<div align="center">
+  
 [![GitHub issues](https://img.shields.io/bitbucket/issues/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/issues)
 [![GitHub watchers](https://img.shields.io/github/watchers/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/watchers)
 [![GitHub forks](https://img.shields.io/github/forks/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/fork)
@@ -13,6 +15,8 @@
 [![Language](https://img.shields.io/github/languages/top/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/search?l=python)
 [![GitHub last commit](https://img.shields.io/github/last-commit/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/commits/main)
 
+</div>
+
 ## 📋 Attributes
 
 1. Produced in IPv4-only, IPv4-CIDR-only and IPv6-only builds.
@@ -20,6 +24,32 @@
 3. No excess or trailing whitespace.
 4. No lingering webscraper garbage.
 5. Lines are terminated with `\n`.
+
+## 🛠️ Usage
+
+### Mikrotik RouterOS v6 & v7
+
+1.- Script which will download the drop list and update
+
+```
+/system script add name="downloadBlackListBox" owner="HybridNetworks" source={
+	/tool fetch url="https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-SPAMHAUS.rsc" mode=https;
+	:delay 5;
+	/ip firewall address-list remove [find where comment="SPAMHAUS-DROP"];
+	:delay 5;
+	/import file-name=HN-BLACKLIST-SPAMHAUS.rsc;
+	:delay 5;
+	/file remove HN-BLACKLIST-SPAMHAUS.rsc;
+}
+```
+
+2.- Schedule the download and application of the blacklist
+
+```
+/system scheduler add comment="BlackListBox" interval=3d \
+	name="BlackListBoxUpdate" on-event=downloadBlackListBox \
+	start-date=jan/01/1970 start-time=10:23:35
+```
 
 ## 📜 FILES
 
@@ -41,6 +71,7 @@ The links below will direct you to the processed versions of the files in this r
 | HN-BLACKLIST-MYIPMS.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-MYIPMS.rsc) |
 | HN-BLACKLIST-MYIPMS-IPv6.rsc                          | Mikrotik RouterOS | IPv6     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-MYIPMS-IPv6.rsc) |
 | HN-BLACKLIST-SPAMHAUS.rsc                        | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-SPAMHAUS.rsc) |
+| HN-BLACKLIST-SPAMHAUS-EDROP.rsc                        | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-SPAMHAUS-EDROP.rsc) |
 | HN-BLACKLIST-TOR-EXITS-NODES.rsc                 | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-EXITS-NODES.rsc) |
 | HN-BLACKLIST-TOR-EXITS-NODES-IPv6.rsc                 | Mikrotik RouterOS | IPv6     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-EXITS-NODES-IPv6.rsc) |
 | HN-BLACKLIST-TOR-RELAYS.rsc                      | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TOR-RELAYS.rsc) |
