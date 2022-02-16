@@ -3,6 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/fork)
 [![GitHub stars](https://img.shields.io/github/stars/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/stargazers)
 [![License](https://img.shields.io/github/license/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/blob/main/LICENSE)
+[![Language](https://img.shields.io/github/languages/top/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/search?l=python)
 [![GitHub last commit](https://img.shields.io/github/last-commit/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/commits/main)
 
 # BlackListBox
