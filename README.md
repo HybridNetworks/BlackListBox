@@ -1,3 +1,10 @@
+<div align="center">
+  <h3> 💀 BlackListBox 💀 </h3>
+  <hr>
+  <p>Automatically updated malicious IP address blacklists.</p>
+  <hr>
+</div>
+
 [![GitHub issues](https://img.shields.io/bitbucket/issues/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/issues)
 [![GitHub watchers](https://img.shields.io/github/watchers/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/watchers)
 [![GitHub forks](https://img.shields.io/github/forks/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/fork)
@@ -6,10 +13,15 @@
 [![Language](https://img.shields.io/github/languages/top/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/search?l=python)
 [![GitHub last commit](https://img.shields.io/github/last-commit/HybridNetworks/BlackListBox?style=for-the-badge)](https://github.com/HybridNetworks/BlackListBox/commits/main)
 
-# BlackListBox
-BlackListBox is an integrated blacklist database autoupdate solution.
+## 📋 Attributes
 
-## FILES
+1. Produced in IPv4-only, IPv4-CIDR-only and IPv6-only builds.
+2. Updates at [1:10 AM UTC](https://24timezones.com/zona-horaria/utc) | [22:10 ART](https://24timezones.com/zona-horaria/art).
+3. No excess or trailing whitespace.
+4. No lingering webscraper garbage.
+5. Lines are terminated with `\n`.
+
+## 📜 FILES
 
 The links below will direct you to the processed versions of the files in this repository. (Files are updated daily)
 
