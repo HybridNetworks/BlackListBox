@@ -224,7 +224,7 @@
           "list": "HN-BLACKLIST-BADIPS",
           "comment": "BADIPS",
           "delimiter": "",
-          "mask": true,
+          "mask": false,
           "subnet": "",
           "protocol": "IPv4"
       },
