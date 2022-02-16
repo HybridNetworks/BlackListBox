@@ -101,7 +101,7 @@
           "mainurl": "https://spamhaus.org/",
           "category": "reputation",
           "url": "https://www.spamhaus.org/drop/edrop.txt",
-          "list": "HN-BLACKLIST-SPAMHAUS",
+          "list": "HN-BLACKLIST-SPAMHAUS-EDROP",
           "comment": "SPAMHAUS-EDROP",
           "delimiter": "",
           "mask": true,
