@@ -20,7 +20,7 @@
 ## 📋 Attributes
 
 1. Produced in IPv4-only, IPv4-CIDR-only and IPv6-only builds.
-2. Updates at [1:10 AM UTC](https://24timezones.com/zona-horaria/utc) | [22:10 ART](https://24timezones.com/zona-horaria/art).
+2. Updates at [≈1:10 AM UTC](https://24timezones.com/zona-horaria/utc) | [≈22:10 ART](https://24timezones.com/zona-horaria/art).
 3. No excess or trailing whitespace.
 4. No lingering webscraper garbage.
 5. Lines are terminated with `\n`.
@@ -50,6 +50,8 @@
 	name="BlackListBoxUpdate" on-event=downloadBlackListBox \
 	start-date=jan/01/1970 start-time=10:23:35
 ```
+
+![](https://img.shields.io/badge/⚠%20WARNING:%20Use%20carefully!%20Some%20lists%20are%20huge%20and%20can%20quickly%20cause%20performance%20issues-red?style=for-the-badge)
 
 ## 📜 FILES
 
