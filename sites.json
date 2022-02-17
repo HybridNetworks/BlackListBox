@@ -275,6 +275,18 @@
           "mask": false,
           "subnet": "",
           "protocol": "IPv4"
+      },
+      {
+          "maintainer": "Proofpoint Inc",
+          "mainurl": "https://proofpoint.com/",
+          "category": "reputation, attacks, compromised",
+          "url": "https://rules.emergingthreats.net/blockrules/compromised-ips.txt",
+          "list": "HN-BLACKLIST-COMPROMISEDIPS",
+          "comment": "EMERGINGTHREATS-COMPROMISED-IPS",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
