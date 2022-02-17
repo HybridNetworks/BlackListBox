@@ -51,6 +51,14 @@
 	start-date=jan/01/1970 start-time=10:23:35
 ```
 
+3.- Blacklist blocking by [RAW](https://wiki.mikrotik.com/wiki/Manual:IP/Firewall/Raw) firewall rules
+
+```
+/ip firewall raw
+add action=drop chain=prerouting comment="HN-FW - DROP SPAMHAUS BLACKLIST" \
+	src-address-list=HN-BLACKLIST-SPAMHAUS
+```
+
 ![](https://img.shields.io/badge/⚠%20WARNING:%20Use%20carefully!%20Some%20lists%20are%20huge%20and%20can%20quickly%20cause%20performance%20issues-red?style=for-the-badge)
 
 ## 📜 FILES
@@ -81,6 +89,7 @@ The links below will direct you to the processed versions of the files in this r
 | HN-BLACKLIST-VOIPBL.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-VOIPBL.rsc) |
 | HN-BLACKLIST-IPSUM-TIF.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-IPSUM-TIF.rsc) |
 | HN-BLACKLIST-GREENSNOW.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-GREENSNOW.rsc) |
+| HN-BLACKLIST-COMPROMISEDIPS.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-COMPROMISEDIPS.rsc) |
 
 ## License
 
