@@ -299,6 +299,18 @@
           "mask": false,
           "subnet": "",
           "protocol": "IPv4"
+      },
+      {
+          "maintainer": "Mirai Tracker by zbetcheckin",
+          "mainurl": "https://twitter.com/zbetcheckin",
+          "category": "botnet",
+          "url": "https://mirai.security.gives/data/ip_list.txt",
+          "list": "HN-BLACKLIST-MIRAI-TRACKER",
+          "comment": "MIRAI-TRACKER",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
