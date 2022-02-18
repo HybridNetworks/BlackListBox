@@ -287,6 +287,18 @@
           "mask": false,
           "subnet": "",
           "protocol": "IPv4"
+      },
+      {
+          "maintainer": "CINS Army List IP",
+          "mainurl": "https://cinsscore.com/",
+          "category": "reputation, compromised",
+          "url": "https://cinsscore.com/list/ci-badguys.txt",
+          "list": "HN-BLACKLIST-CI-BADGUYS",
+          "comment": "CI-BADGUYS-BLACKLIST",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
