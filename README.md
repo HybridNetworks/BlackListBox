@@ -92,7 +92,6 @@ The links below will direct you to the processed versions of the files in this r
 | HN-BLACKLIST-COMPROMISEDIPS.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-COMPROMISEDIPS.rsc) |
 | HN-BLACKLIST-CI-BADGUYS.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-CI-BADGUYS.rsc) |
 | HN-BLACKLIST-MIRAI-TRACKER.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-MIRAI-TRACKER.rsc) |
-
 | HN-BLACKLIST-RUTGERS-DROP.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-RUTGERS-DROP.rsc) |
 
 ## License
