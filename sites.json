@@ -311,6 +311,18 @@
           "mask": false,
           "subnet": "",
           "protocol": "IPv4"
+      },
+      {
+          "maintainer": "Rutgers",
+          "mainurl": "https://www.rutgers.edu/",
+          "category": "attacks",
+          "url": "https://report.cs.rutgers.edu/DROP/attackers",
+          "list": "HN-BLACKLIST-RUTGERS-DROP",
+          "comment": "RUTGERS-DROP-ATTACKERS",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
