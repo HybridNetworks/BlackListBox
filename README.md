@@ -94,6 +94,22 @@ The links below will direct you to the processed versions of the files in this r
 | HN-BLACKLIST-MIRAI-TRACKER.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-MIRAI-TRACKER.rsc) |
 | HN-BLACKLIST-RUTGERS-DROP.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-RUTGERS-DROP.rsc) |
 
+---
+
+## 💖 Support this project and IT Infrastructure :point_down:
+
+#### Buy a Coffee (International) :point_down:
+
+[![Support in Ko-Fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-in%20Ko--Fi-ff5e5b?style=for-the-badge)](https://ko-fi.com/hybridnetworks)
+
+[![Support in Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-in%20BuyMeaCoffee-ffed00?style=for-the-badge)](https://www.buymeacoffee.com/hybridnetworks)
+
+#### Buy a Coffee (Argentina Only) :point_down:
+
+[![Support in Cafecito](https://img.shields.io/badge/Buy%20me%20a%20coffee-in%20Cafecito-a9c0f2?style=for-the-badge)](https://cafecito.app/hybridnetworks)
+
+---
+
 ## License
 
 ```
