@@ -110,7 +110,7 @@ The links below will direct you to the processed versions of the files in this r
 
 ---
 
-## License
+## 📝 License
 
 ```
 MIT License
@@ -135,3 +135,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+---
+
+## 📧 Contact
+
+- Email: [Email HybridNetworks Ltd.](mailto:info@hybridnetworks.com.ar)
+
+- Project Link: [https://github.com/HybridNetworks/BlackListBox](https://github.com/HybridNetworks/BlackListBox)
