@@ -323,6 +323,18 @@
           "mask": false,
           "subnet": "",
           "protocol": "IPv4"
+      },
+      {
+          "maintainer": "Cisco Talos Intelligence Group",
+          "mainurl": "https://talosintelligence.com",
+          "category": "reputation",
+          "url": "http://www.talosintelligence.com/documents/ip-blacklist",
+          "list": "HN-BLACKLIST-TALOSINTELLIGENCE",
+          "comment": "TALOSINTELLIGENCE-IP-BLACKLIST",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
