@@ -335,6 +335,18 @@
           "mask": false,
           "subnet": "",
           "protocol": "IPv4"
+      },
+      {
+          "maintainer": "Daniel Gerzo",
+          "mainurl": "https://danger.rulez.sk/",
+          "category": "bruteforce, reputation, ssh",
+          "url": "https://danger.rulez.sk/projects/bruteforceblocker/blist.php",
+          "list": "HN-BLACKLIST-DANGER-RULEZ",
+          "comment": "DANGER-RULEZ-IP-BRUTEFORCE",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
