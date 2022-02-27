@@ -94,6 +94,7 @@ The links below will direct you to the processed versions of the files in this r
 | HN-BLACKLIST-MIRAI-TRACKER.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-MIRAI-TRACKER.rsc) |
 | HN-BLACKLIST-RUTGERS-DROP.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-RUTGERS-DROP.rsc) |
 | HN-BLACKLIST-TALOSINTELLIGENCE.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TALOSINTELLIGENCE.rsc) |
+| HN-BLACKLIST-DANGER-RULEZ.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-DANGER-RULEZ.rsc) |
 
 ---
 
