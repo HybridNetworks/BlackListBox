@@ -5,7 +5,7 @@
 # Maintainer URL  : https://fissionrelays.net/
 # Category        : tor exits nodes
 #
-# Last Update     : 2022-02-26 01:06:26
+# Last Update     : 2022-02-27 01:13:36
 # Blacklist       : TOR-EXITS-NODES-IPv6
 #
 # ABOUT CONTACT:
@@ -227,7 +227,6 @@ add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2a0f:9100:110:a::91
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2a0f:9100:110:a::92
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2a0f:bf00:deca:2:3012:28ff:fe84:dc92
-add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2a0f:ca80:0:161::1
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2a0f:df00:0:255::195
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2a0f:df00:0:255::196
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2a0f:df00:0:255::197
@@ -590,7 +589,6 @@ add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2605:6400:30:f1ef:b226:98f4:9396:7d44
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2605:6400:30:f1fb:3151:258e:efef:18eb
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2605:6400:30:f2a0::
-add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2605:6400:30:f2df:1193:43f1:22f1:be13
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2605:6400:30:f4dc:393d:caf8:33e1:b5cc
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2605:6400:30:f5ae:45cb:18ad:654a:db57
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2605:6400:30:f5c6::
