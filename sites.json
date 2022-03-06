@@ -246,7 +246,7 @@
           "category": "attacks, wordpress",
           "url": "https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt",
           "list": "HN-BLACKLIST-WP",
-          "comment": "Top-Attacking-Wordpress-Sites",
+          "comment": "TOP-ATTACK-WPS", 
           "delimiter": "",
           "mask": false,
           "subnet": "",
