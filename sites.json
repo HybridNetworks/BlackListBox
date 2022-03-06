@@ -347,6 +347,18 @@
           "mask": false,
           "subnet": "",
           "protocol": "IPv4"
+      },
+      {
+          "maintainer": "Pushing Inertia",
+          "mainurl": "http://pushinginertia.com/",
+          "category": "reputation, bots, spiders, scrapers",
+          "url": "https://raw.githubusercontent.com/pushinginertia/ip-blacklist/master/ip_blacklist.conf",
+          "list": "HN-BLACKLIST-PUSHING-INERTIA",
+          "comment": "PUSHING-INERTIA",
+          "delimiter": "",
+          "mask": true,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
