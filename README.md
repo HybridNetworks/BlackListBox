@@ -63,7 +63,7 @@ add action=drop chain=prerouting comment="HN-FW - DROP SPAMHAUS BLACKLIST" \
 
 ## 📜 FILES
 
-The links below will direct you to the processed versions of the files in this repository. (Files are updated daily)
+The links below will direct you to the processed versions of the files in this repository. See more information on the [wiki](https://github.com/HybridNetworks/BlackListBox/wiki/Sites-List). (Files are updated daily)
 
 | File Name                                        | Format            | Protocol | Official                                                             |
 | ------------------------------------------------ | ----------------- | -------- | -------------------------------------------------------------------- |
@@ -95,6 +95,7 @@ The links below will direct you to the processed versions of the files in this r
 | HN-BLACKLIST-RUTGERS-DROP.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-RUTGERS-DROP.rsc) |
 | HN-BLACKLIST-TALOSINTELLIGENCE.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TALOSINTELLIGENCE.rsc) |
 | HN-BLACKLIST-DANGER-RULEZ.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-DANGER-RULEZ.rsc) |
+| HN-BLACKLIST-WP.rsc | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-WP.rsc) |
 
 ---
 
