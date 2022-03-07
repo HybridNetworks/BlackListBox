@@ -96,6 +96,9 @@ The links below will direct you to the processed versions of the files in this r
 | HN-BLACKLIST-TALOSINTELLIGENCE.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-TALOSINTELLIGENCE.rsc) |
 | HN-BLACKLIST-DANGER-RULEZ.rsc                          | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-DANGER-RULEZ.rsc) |
 | HN-BLACKLIST-WP.rsc | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-WP.rsc) |
+| HN-BLACKLIST-PUSHING-INERTIA.rsc | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-PUSHING-INERTIA.rsc) |
+| HN-BLACKLIST-BLOCKLIST-NET-UA.rsc | Mikrotik RouterOS | IPv4     | [Download](https://raw.githubusercontent.com/HybridNetworks/BlackListBox/main/Mikrotik/HN-BLACKLIST-BLOCKLIST-NET-UA.rsc) |
+
 
 ---
 
