@@ -371,6 +371,18 @@
           "mask": false,
           "subnet": "",
           "protocol": "IPv4"
+      },
+      {
+          "maintainer": "StopForumSpam.com",
+          "mainurl": "http://www.stopforumspam.com/",
+          "category": "abuse, spam",
+          "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam.ipset",
+          "list": "HN-BLACKLIST-STOPFORUMSPAM",
+          "comment": "STOP-FORUM-SPAM",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
