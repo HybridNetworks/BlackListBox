@@ -407,6 +407,18 @@
           "mask": false,
           "subnet": "",
           "protocol": "IPv4"
+      },
+      {
+          "maintainer": "dan.me.uk",
+          "mainurl": "https://www.dan.me.uk/",
+          "category": "anonymizers, tor",
+          "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dm_tor.ipset",
+          "list": "HN-BLACKLIST-DAN-TOR-NODES",
+          "comment": "DYNAMIC-TOR-NODES",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
