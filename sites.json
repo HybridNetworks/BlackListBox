@@ -383,6 +383,30 @@
           "mask": false,
           "subnet": "",
           "protocol": "IPv4"
+      },
+      {
+          "maintainer": "StopForumSpam.com",
+          "mainurl": "http://www.stopforumspam.com/",
+          "category": "abuse",
+          "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_1d.ipset",
+          "list": "HN-BLACKLIST-STOPFORUMSPAM-1D",
+          "comment": "STOP-FORUM-SPAM-1D",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
+      },
+      {
+          "maintainer": "StopForumSpam.com",
+          "mainurl": "http://www.stopforumspam.com/",
+          "category": "abuse",
+          "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_7d.ipset",
+          "list": "HN-BLACKLIST-STOPFORUMSPAM-7D",
+          "comment": "STOP-FORUM-SPAM-7D",
+          "delimiter": "",
+          "mask": false,
+          "subnet": "",
+          "protocol": "IPv4"
       }
    ]
 }
