@@ -46,9 +46,9 @@ jobs:
     # Commits all changed files to the repository
     - name: Updating blacklists
       run: |
-        git config --global user.name "HybridNetworks/BlackListBox"
+        git config --global user.name "HybridNetworks"
         git config --global user.email "BlackListBox[bot]@HybridNetworks.github.io"
         git add .
         # "echo" returns true so the build succeeds, even if no changed files
-        git commit -m 'Update generated files' || echo
+        git commit -m "Update $(date '+%Y-%m-%d')" || echo
         git push
