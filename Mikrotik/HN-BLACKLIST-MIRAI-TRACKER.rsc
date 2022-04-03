@@ -5,7 +5,7 @@
 # Maintainer URL  : https://twitter.com/zbetcheckin
 # Category        : botnet
 #
-# Last Update     : 2022-04-02 01:37:11
+# Last Update     : 2022-04-03 01:41:06
 # Blacklist       : MIRAI-TRACKER
 #
 # ABOUT CONTACT:
