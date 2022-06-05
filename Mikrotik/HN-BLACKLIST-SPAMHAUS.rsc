@@ -5,7 +5,7 @@
 # Maintainer URL  : https://spamhaus.org/
 # Category        : reputation, spam
 #
-# Last Update     : 2022-06-04 01:40:51
+# Last Update     : 2022-06-05 01:54:37
 # Blacklist       : SPAMHAUS-DROP
 #
 # ABOUT CONTACT:
