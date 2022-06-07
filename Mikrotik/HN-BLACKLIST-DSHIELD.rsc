@@ -5,7 +5,7 @@
 # Maintainer URL  : https://dshield.org/
 # Category        : attacks
 #
-# Last Update     : 2022-06-06 01:53:25
+# Last Update     : 2022-06-07 01:48:47
 # Blacklist       : DSHIELD
 #
 # ABOUT CONTACT:
@@ -26,22 +26,22 @@
 
 /ip firewall address-list
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=89.248.165.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.155.205.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=91.240.118.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=80.82.64.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=185.156.73.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=91.240.118.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=193.201.9.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=91.191.209.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=193.163.125.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=141.98.10.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.143.203.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=89.248.163.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=146.88.240.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=185.196.220.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.143.203.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=91.191.209.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=141.98.10.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=138.99.216.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=78.128.113.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.135.232.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=192.241.220.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=138.99.216.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=192.241.213.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=94.102.61.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.154.96.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.155.205.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=192.241.222.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=94.102.61.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=192.241.221.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=64.62.197.0/24
