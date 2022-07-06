@@ -5,7 +5,7 @@
 # Maintainer URL  : https://dshield.org/
 # Category        : attacks
 #
-# Last Update     : 2022-07-05 02:02:31
+# Last Update     : 2022-07-06 02:12:47
 # Blacklist       : DSHIELD
 #
 # ABOUT CONTACT:
@@ -30,18 +30,18 @@ add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=193.201.9.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=185.156.74.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.143.203.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=78.128.113.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.148.10.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=185.156.73.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.148.10.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=193.163.125.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=185.196.220.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.95.147.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=92.63.197.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=2.57.122.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=185.196.220.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=5.188.206.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.95.147.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=91.240.118.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=89.248.163.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=146.88.240.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=64.62.197.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=192.241.222.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=138.199.32.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=146.88.240.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=192.241.213.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=94.102.61.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=80.82.77.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=2.57.122.0/24
