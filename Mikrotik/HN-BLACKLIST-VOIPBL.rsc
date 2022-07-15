@@ -5,7 +5,7 @@
 # Maintainer URL  : http://www.voipbl.org/
 # Category        : attacks, voip
 #
-# Last Update     : 2022-07-14 02:08:50
+# Last Update     : 2022-07-15 02:20:24
 # Blacklist       : VOIPBL
 #
 # ABOUT CONTACT:
@@ -25,13 +25,5 @@
 # ============================================================
 
 /ip firewall address-list
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.90.48.220/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.117.0.61/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.199.126.251/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=45.93.16.104/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=62.197.159.6/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=80.246.31.72/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=185.94.190.134/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=193.228.56.4/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=194.169.168.4/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=217.138.216.222/32
