@@ -5,7 +5,7 @@
 # Maintainer URL  : https://yoyo.org/
 # Category        : adservers
 #
-# Last Update     : 2022-09-23 02:28:39
+# Last Update     : 2022-09-24 02:29:30
 # Blacklist       : PGL-YOYO-ADS
 #
 # ABOUT CONTACT:
