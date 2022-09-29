@@ -5,7 +5,7 @@
 # Maintainer URL  : https://myip.ms/
 # Category        : abuse, webbot
 #
-# Last Update     : 2022-09-28 02:24:36
+# Last Update     : 2022-09-29 02:29:51
 # Blacklist       : MYIPMS-DATABASE-IPv6
 #
 # ABOUT CONTACT:
@@ -25,7 +25,6 @@
 # ============================================================
 
 /ipv6 firewall address-list
-add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a02:c7e:3cb8:cc00:514e:b253:1c60:47d9
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2406:da14:1c2:1202:b9c9:fa46:6568:32fd
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a06:98c0:3600::103
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2600:3c03::f03c:91ff:fe58:991e
@@ -36,3 +35,4 @@ add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a01:4f8:
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2001:4bc9:1f80:933:68b9:6d7c:5a38:d4bf
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2001:1c06:200a:2300:49fd:216a:d2c5:704e
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2600:3c03::f03c:91ff:fe58:9936
+add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a00:23c8:288c:8101:9d04:419b:f3d2:73c0
