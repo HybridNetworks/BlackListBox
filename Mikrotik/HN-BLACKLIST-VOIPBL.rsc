@@ -5,7 +5,7 @@
 # Maintainer URL  : http://www.voipbl.org/
 # Category        : attacks, voip
 #
-# Last Update     : 2022-10-14 02:37:06
+# Last Update     : 2022-10-15 02:30:53
 # Blacklist       : VOIPBL
 #
 # ABOUT CONTACT:
@@ -459,6 +459,8 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=4.79.160.75/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=4.233.96.100/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=4.233.113.202/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=4.233.114.1/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=4.233.148.235/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=4.233.148.249/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=4.240.88.219/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=5.2.67.139/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=5.2.80.11/32
@@ -991,6 +993,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=5.133.14.195/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=5.133.14.197/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=5.133.24.7/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=5.133.24.239/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=5.133.29.233/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=5.133.30.64/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=5.133.30.100/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=5.133.30.130/32
@@ -1613,6 +1616,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=12.156.252.84/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=12.157.54.243/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=12.160.169.211/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=12.160.169.227/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=12.161.154.230/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=12.163.156.78/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=12.165.8.86/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=12.168.111.187/32
@@ -2123,6 +2127,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.0.129.245/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.0.130.230/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.0.145.163/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.0.152.147/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.0.204.20/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.1.145.220/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.1.158.120/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.1.172.176/32
@@ -2174,6 +2179,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.12.210.136/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.12.227.176/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.13.24.87/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.13.128.145/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.13.145.76/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.13.152.10/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.13.155.132/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.13.161.157/32
@@ -3412,6 +3418,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.196.196.94/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.196.205.137/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.196.214.39/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.197.7.252/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.197.17.82/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.197.26.159/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.197.40.222/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.197.193.119/32
@@ -3451,6 +3458,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.199.105.147/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.199.110.81/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.199.112.90/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.199.116.19/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.199.118.111/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.199.119.129/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.199.119.231/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.199.120.7/32
@@ -3609,6 +3617,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.208.42.26/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.208.128.187/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.208.129.84/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.208.130.133/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.208.131.99/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.208.136.66/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.208.136.74/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.208.138.150/32
@@ -3657,6 +3666,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.213.11.206/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.213.22.168/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.213.48.97/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.213.51.37/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.213.53.89/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.213.55.167/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.213.56.54/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.213.59.121/32
@@ -3946,6 +3956,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.236.23.159/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.237.193.150/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.238.46.23/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.238.60.133/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.238.66.20/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.238.70.39/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.238.80.51/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=20.238.100.55/32
@@ -5701,6 +5712,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.86.101.165/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.86.133.7/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.86.142.114/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.86.153.100/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.86.242.200/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.87.13.203/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.87.149.169/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.88.86.215/32
@@ -5740,6 +5752,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.122.131.39/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.122.174.216/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.122.213.200/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.122.244.86/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.125.26.204/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.125.32.207/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.125.50.168/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=34.125.73.27/32
@@ -5945,6 +5958,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.222.223.233/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.223.80.151/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.223.164.238/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.224.55.119/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.224.145.14/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.224.162.69/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.225.18.149/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.226.38.28/32
@@ -5962,6 +5976,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.230.102.185/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.230.150.131/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.230.153.28/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.230.155.252/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.230.181.88/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.230.181.104/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.231.6.204/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.231.163.237/32
@@ -5980,6 +5995,8 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.240.204.155/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.242.170.133/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.242.175.84/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.242.221.102/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.243.204.31/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.243.251.96/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.244.21.83/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.245.29.145/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.245.41.87/32
@@ -5997,6 +6014,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.246.34.87/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.246.39.85/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.246.39.204/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.246.60.246/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.246.215.182/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.246.220.35/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.246.223.31/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=35.247.93.99/32
@@ -7212,6 +7230,8 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=41.146.145.170/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=41.146.147.77/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=41.147.0.14/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=41.147.0.113/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=41.150.209.201/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=41.150.209.246/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=41.151.1.104/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=41.151.2.66/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=41.151.5.43/32
@@ -8302,6 +8322,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=45.93.201.119/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=45.93.201.192/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=45.93.245.25/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=45.94.209.235/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=45.95.55.229/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=45.95.147.2/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=45.95.147.4/30
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=45.95.147.8/29
@@ -9925,6 +9946,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=46.60.67.251/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=46.60.68.91/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=46.60.68.145/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=46.60.68.196/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=46.60.68.252/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=46.60.69.11/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=46.60.69.48/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=46.60.69.115/32
@@ -11143,6 +11165,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=49.233.39.32/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=49.234.75.243/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=49.234.114.44/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=49.235.70.74/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=49.235.229.141/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=49.239.161.61/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=49.245.57.252/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=49.246.15.25/32
@@ -11993,6 +12016,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=52.146.36.131/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=52.148.87.44/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=52.148.138.27/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=52.148.210.108/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=52.149.121.135/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=52.149.143.5/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=52.149.165.70/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=52.149.222.187/32
@@ -13852,12 +13876,14 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.30.223.202/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.30.245.194/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.39.71.174/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.39.82.91/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.40.195.236/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.47.62.49/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.47.133.77/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.47.227.139/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.47.251.63/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.49.228.198/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.49.244.54/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.49.244.103/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.54.63.38/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.55.31.111/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=69.60.69.82/32
@@ -15699,6 +15725,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=82.205.12.55/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=82.205.12.218/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=82.205.12.235/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=82.205.13.66/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=82.205.13.79/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=82.205.13.161/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=82.205.13.190/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=82.205.14.97/32
@@ -16381,7 +16408,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.38/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.41/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.42/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.46/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.51/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.50/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.52/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.55/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.56/31
@@ -16397,7 +16424,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.82/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.86/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.88/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.92/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.97/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.96/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.99/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.104/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.106/32
@@ -16420,7 +16447,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.161/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.162/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.166/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.168/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.170/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.170/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.172/30
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.176/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=87.236.176.182/32
@@ -16507,6 +16534,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.25.52.180/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.25.163.216/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.26.213.8/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.28.17.144/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.30.9.220/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.32.219.44/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.36.183.90/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.37.71.27/32
@@ -16570,6 +16598,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.202.190.150/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.202.190.153/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.202.190.158/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.204.184.69/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.206.244.50/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.206.249.114/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.207.26.199/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=88.207.31.92/32
@@ -16591,6 +16620,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.15.243.235/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.16.181.87/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.19.30.10/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.20.169.90/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.20.202.67/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.21.221.121/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.22.197.244/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.22.237.235/32
@@ -16720,6 +16750,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.46.223.240/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.46.223.242/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.46.223.244/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.46.223.246/31
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.47.52.171/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.65.56.150/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.65.107.186/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.67.90.204/32
@@ -16738,6 +16769,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.106.138.86/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.107.10.100/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.107.139.8/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.108.105.19/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.109.32.143/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.114.29.229/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.116.129.192/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.129.222.106/32
@@ -16790,6 +16822,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.153.4/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.153.13/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.153.20/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.153.22/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.155.220/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.204.9/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.204.62/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.210.117/32
@@ -16800,6 +16833,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.211.6/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.212.107/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.220.41/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.221.85/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.221.104/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.225.1/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.225.110/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.163.225.112/32
@@ -16917,6 +16951,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.190.156.138/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.197.112.22/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.197.172.210/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.205.137.217/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.212.96.254/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.213.35.57/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.216.16.141/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=89.216.93.39/32
@@ -17551,7 +17586,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.118.39.130/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.118.39.135/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.118.39.139/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.118.39.149/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.118.39.180/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.118.39.180/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.118.39.253/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.118.39.254/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.118.63.18/32
@@ -17622,6 +17657,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.132.63/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.132.65/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.133.4/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.133.156/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.134.78/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.134.205/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.135.74/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.135.163/32
@@ -17650,6 +17686,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.146.3/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.146.5/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.146.7/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.146.9/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.146.12/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.146.18/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.146.21/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=92.204.169.66/32
@@ -20031,6 +20068,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.89.91.49/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.89.232.66/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.90.73.26/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.90.73.68/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.90.177.102/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.90.220.203/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.90.233.140/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.90.234.129/32
@@ -20597,6 +20635,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.163.63.240/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.163.63.244/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.163.63.247/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.163.63.248/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.163.63.254/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.163.161.75/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.163.187.14/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=103.163.193.97/32
@@ -21635,6 +21674,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.152.190.62/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.154.24.194/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.154.149.47/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.156.48.65/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.156.155.4/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.156.155.7/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.156.155.10/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.156.155.28/30
@@ -21724,6 +21764,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.208.98.101/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.208.107.194/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.208.108.167/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.208.111.204/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.208.113.9/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.208.117.149/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.209.45.73/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=104.209.159.187/32
@@ -22666,7 +22707,10 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=110.42.196.34/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=110.44.240.196/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=110.49.90.37/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=110.49.167.145/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=110.54.167.144/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=110.54.167.161/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=110.54.167.250/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=110.54.197.217/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=110.74.172.90/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=110.77.138.20/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=110.77.148.181/32
@@ -22994,6 +23038,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=112.200.175.42/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=112.200.228.47/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=112.200.234.168/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=112.201.11.127/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=112.201.72.4/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=112.201.92.46/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=112.201.95.133/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=112.201.98.133/32
@@ -24675,6 +24720,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=122.166.157.243/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=122.166.158.28/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=122.166.187.47/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=122.166.189.206/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=122.166.190.212/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=122.166.207.70/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=122.166.238.130/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=122.166.246.102/32
@@ -25082,11 +25128,13 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.187.111.22/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.194.50.21/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.195.190.171/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.205.216.123/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.220.0.29/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.220.63.189/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.221.132.136/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.221.239.66/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.222.7.116/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.222.197.100/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.223.41.21/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.223.44.116/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.223.162.17/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=124.224.87.156/32
@@ -25212,6 +25260,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.0.135.164/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.1.38.34/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.1.39.69/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.1.40.181/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.1.40.228/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.1.41.190/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.1.41.222/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.1.42.19/32
@@ -25262,7 +25311,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.14.209.238/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.14.209.242/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.14.209.244/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.14.209.246/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.14.209.251/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.14.209.250/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.14.209.252/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.14.209.254/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.14.224.234/32
@@ -30094,8 +30143,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.90.162.164/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.90.162.166/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.90.162.168/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.90.162.174/31
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.90.162.176/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.90.162.178/31
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.90.162.176/30
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.90.162.180/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.90.162.183/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=128.90.162.184/32
@@ -35203,6 +35251,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.54.227/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.58.95/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.70.128/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.75.23/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.77.1/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.82.190/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.83.201/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.93.71/32
@@ -35219,6 +35268,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.176.99/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.179.181/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.193.193/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.199.22/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.203.50/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.211.173/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.234.72/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.45.236.34/32
@@ -35284,6 +35334,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.50.1.44/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.50.10.29/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.50.14.72/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.50.14.203/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.50.16.194/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.50.20.255/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.50.25.10/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=157.50.30.228/32
@@ -36555,6 +36606,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=167.99.197.142/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=167.99.199.232/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=167.99.200.250/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=167.99.209.141/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=167.99.209.184/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=167.99.215.216/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=167.99.217.237/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=167.114.21.159/32
@@ -37226,6 +37278,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.105.111.110/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.105.245.233/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.105.252.13/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.106.0.90/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.106.6.237/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.106.10.130/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.106.10.242/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.106.12.198/32
@@ -37252,6 +37305,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.107.226.58/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.107.226.142/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.107.228.30/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.107.233.58/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.107.236.215/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.107.246.170/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.108.128.89/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=172.110.64.74/32
@@ -37513,6 +37567,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=174.138.22.255/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=174.138.48.152/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=174.138.53.184/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=174.138.63.36/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=174.138.188.242/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=174.139.70.146/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=174.199.42.46/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=174.199.43.60/32
@@ -37725,6 +37780,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=176.77.9.91/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=176.78.172.253/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=176.79.134.16/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=176.80.210.177/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=176.82.152.32/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=176.87.22.118/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=176.88.119.163/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=176.94.9.132/32
@@ -39353,6 +39409,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=180.101.132.61/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=180.101.181.161/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=180.107.252.170/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=180.109.123.14/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=180.111.102.180/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=180.113.102.97/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=180.128.242.105/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=180.128.242.198/32
@@ -41240,6 +41297,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=186.221.219.205/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=186.222.118.245/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=186.222.144.149/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=186.223.184.86/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=186.223.189.8/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=186.224.33.11/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=186.224.37.203/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=186.224.141.175/32
@@ -43935,7 +43993,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.215.29/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.215.32/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.215.41/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.215.42/32
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.215.49/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.215.48/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.215.51/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.215.53/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.215.54/32
@@ -44061,6 +44119,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.218.199/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.218.207/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.218.209/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.218.245/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.218.246/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.218.251/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.218.252/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.219.7/32
@@ -44114,6 +44173,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.219.220/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.219.222/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.219.226/31
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.219.243/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.220.4/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.220.8/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.220.11/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=192.241.220.12/32
@@ -46861,10 +46921,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.5/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.6/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.8/29
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.16/28
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.32/29
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.40/30
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.44/31
-add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.46/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.32/28
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.48/29
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.56/30
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=205.210.31.60/32
@@ -48367,6 +48424,7 @@ add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=213.205.197.212/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=213.205.197.223/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=213.205.198.204/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=213.205.240.116/32
+add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=213.205.242.27/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=213.205.242.33/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=213.205.242.81/32
 add list=HN-BLACKLIST-VOIPBL comment=VOIPBL address=213.205.242.96/32
