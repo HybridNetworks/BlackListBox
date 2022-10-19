@@ -5,7 +5,7 @@
 # Maintainer URL  : https://www.rutgers.edu/
 # Category        : attacks
 #
-# Last Update     : 2022-10-18 02:29:35
+# Last Update     : 2022-10-19 02:26:25
 # Blacklist       : RUTGERS-DROP-ATTACKERS
 #
 # ABOUT CONTACT:
