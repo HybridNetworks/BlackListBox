@@ -5,7 +5,7 @@
 # Maintainer URL  : https://yoyo.org/
 # Category        : adservers
 #
-# Last Update     : 2022-10-21 02:00:04
+# Last Update     : 2022-10-22 02:15:20
 # Blacklist       : PGL-YOYO-ADS
 #
 # ABOUT CONTACT:
@@ -2522,7 +2522,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.179.9.152
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.179.9.48
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.184.138.100
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.184.139.109
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.184.224.88
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.184.29.210
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.184.39.135
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.184.39.137
@@ -2756,7 +2755,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.78.94.73
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.78.94.96
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.79.78.230
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.80.4.106
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.80.56.11
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.81.201.12
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.81.201.14
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=208.81.233.74
