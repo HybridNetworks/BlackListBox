@@ -5,7 +5,7 @@
 # Maintainer URL  : https://blocklist.de/
 # Category        : attacks
 #
-# Last Update     : 2022-11-14 01:53:45
+# Last Update     : 2022-11-15 01:52:53
 # Blacklist       : ALL-BLOCKLIST.DE
 #
 # ABOUT CONTACT:
