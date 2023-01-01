@@ -1,11 +1,11 @@
 # ============================================================
-# (C) 2011-2022 HybridNetworks Ltd. -- All Rights Reserved
+# (C) 2011-2023 HybridNetworks Ltd. -- All Rights Reserved
 #
 # Maintainer      : FireHOL
 # Maintainer URL  : https://firehol.org/
 # Category        : attacks
 #
-# Last Update     : 2022-12-31 01:22:28
+# Last Update     : 2023-01-01 01:43:26
 # Blacklist       : FIREHOL-LEVEL1
 #
 # ABOUT CONTACT:

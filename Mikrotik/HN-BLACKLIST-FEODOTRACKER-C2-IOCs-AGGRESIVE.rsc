@@ -1,11 +1,11 @@
 # ============================================================
-# (C) 2011-2022 HybridNetworks Ltd. -- All Rights Reserved
+# (C) 2011-2023 HybridNetworks Ltd. -- All Rights Reserved
 #
 # Maintainer      : Feodo Tracker by Abuse.ch
 # Maintainer URL  : https://feodotracker.abuse.ch/
 # Category        : malware, botnet
 #
-# Last Update     : 2022-12-31 01:22:24
+# Last Update     : 2023-01-01 01:43:19
 # Blacklist       : FEODOTRACKER-C2-IOCs-AGGRESIVE
 #
 # ABOUT CONTACT:
@@ -4132,6 +4132,7 @@ add list=HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE comment=FEODOTRACKER-C2-IOC
 add list=HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE comment=FEODOTRACKER-C2-IOCs-AGGRESIVE address=73.161.176.218
 add list=HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE comment=FEODOTRACKER-C2-IOCs-AGGRESIVE address=73.165.119.20
 add list=HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE comment=FEODOTRACKER-C2-IOCs-AGGRESIVE address=73.171.4.177
+add list=HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE comment=FEODOTRACKER-C2-IOCs-AGGRESIVE address=73.174.23.116
 add list=HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE comment=FEODOTRACKER-C2-IOCs-AGGRESIVE address=73.214.105.238
 add list=HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE comment=FEODOTRACKER-C2-IOCs-AGGRESIVE address=73.22.121.210
 add list=HN-BLACKLIST-FEODOTRACKER-C2-IOCs-AGGRESIVE comment=FEODOTRACKER-C2-IOCs-AGGRESIVE address=73.223.248.31
