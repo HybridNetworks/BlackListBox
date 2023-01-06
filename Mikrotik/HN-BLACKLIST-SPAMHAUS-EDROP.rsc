@@ -5,7 +5,7 @@
 # Maintainer URL  : https://spamhaus.org/
 # Category        : reputation
 #
-# Last Update     : 2023-01-05 01:35:14
+# Last Update     : 2023-01-06 01:34:11
 # Blacklist       : SPAMHAUS-EDROP
 #
 # ABOUT CONTACT:
@@ -46,6 +46,7 @@ add list=HN-BLACKLIST-SPAMHAUS-EDROP comment=SPAMHAUS-EDROP address=62.112.16.0/
 add list=HN-BLACKLIST-SPAMHAUS-EDROP comment=SPAMHAUS-EDROP address=79.110.22.0/24
 add list=HN-BLACKLIST-SPAMHAUS-EDROP comment=SPAMHAUS-EDROP address=79.137.194.0/24
 add list=HN-BLACKLIST-SPAMHAUS-EDROP comment=SPAMHAUS-EDROP address=80.76.42.0/24
+add list=HN-BLACKLIST-SPAMHAUS-EDROP comment=SPAMHAUS-EDROP address=85.209.135.0/24
 add list=HN-BLACKLIST-SPAMHAUS-EDROP comment=SPAMHAUS-EDROP address=87.246.7.0/24
 add list=HN-BLACKLIST-SPAMHAUS-EDROP comment=SPAMHAUS-EDROP address=91.200.81.0/24
 add list=HN-BLACKLIST-SPAMHAUS-EDROP comment=SPAMHAUS-EDROP address=91.200.82.0/24
