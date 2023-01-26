@@ -5,7 +5,7 @@
 # Maintainer URL  : https://fissionrelays.net/
 # Category        : tor relays
 #
-# Last Update     : 2023-01-25 01:24:20
+# Last Update     : 2023-01-26 01:25:52
 # Blacklist       : TOR-RELAYS
 #
 # ABOUT CONTACT:
