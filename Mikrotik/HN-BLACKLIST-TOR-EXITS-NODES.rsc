@@ -5,7 +5,7 @@
 # Maintainer URL  : https://fissionrelays.net/
 # Category        : tor exits nodes
 #
-# Last Update     : 2023-01-28 01:34:32
+# Last Update     : 2023-01-29 01:38:35
 # Blacklist       : TOR-EXITS-NODES
 #
 # ABOUT CONTACT:
