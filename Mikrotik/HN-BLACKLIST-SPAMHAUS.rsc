@@ -5,7 +5,7 @@
 # Maintainer URL  : https://spamhaus.org/
 # Category        : reputation, spam
 #
-# Last Update     : 2023-02-01 01:45:00
+# Last Update     : 2023-02-02 01:36:12
 # Blacklist       : SPAMHAUS-DROP
 #
 # ABOUT CONTACT:
@@ -66,6 +66,7 @@ add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=45.86.20.0/22
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=45.86.48.0/22
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=45.116.224.0/22
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=45.121.204.0/22
+add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=45.148.121.0/24
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=45.186.152.0/22
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=45.220.64.0/18
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=46.102.177.0/24
@@ -211,6 +212,7 @@ add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=102.211.224.0/19
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=102.212.224.0/19
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=102.240.0.0/16
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=103.5.116.0/22
+add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=103.7.198.0/23
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=103.20.72.0/22
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=103.23.8.0/22
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=103.23.124.0/22
