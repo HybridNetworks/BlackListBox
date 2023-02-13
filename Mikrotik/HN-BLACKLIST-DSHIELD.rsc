@@ -5,7 +5,7 @@
 # Maintainer URL  : https://dshield.org/
 # Category        : attacks
 #
-# Last Update     : 2023-02-12 01:38:09
+# Last Update     : 2023-02-13 01:39:09
 # Blacklist       : DSHIELD
 #
 # ABOUT CONTACT:
@@ -27,8 +27,8 @@
 /ip firewall address-list
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=89.248.163.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=89.248.165.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=79.124.58.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=185.122.204.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=176.111.174.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=94.102.61.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=212.70.149.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=185.156.73.0/24
@@ -38,10 +38,10 @@ add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=92.63.197.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=64.62.197.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=193.163.125.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.143.200.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=185.224.128.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=176.111.174.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=167.94.146.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=167.94.145.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=146.88.240.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=205.210.31.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=198.235.24.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=167.94.145.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=185.81.68.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=167.94.146.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=185.224.128.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=80.66.77.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=64.112.72.0/24
