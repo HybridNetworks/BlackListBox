@@ -5,7 +5,7 @@
 # Maintainer URL  : https://yoyo.org/
 # Category        : adservers
 #
-# Last Update     : 2023-02-17 01:41:07
+# Last Update     : 2023-02-18 01:35:28
 # Blacklist       : PGL-YOYO-ADS
 #
 # ABOUT CONTACT:
@@ -5879,15 +5879,11 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=63.88.212.91
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=63.99.210.223
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.0.50.75
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.106.133.31
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.106.138.21
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.106.138.41
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.106.138.86
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.106.154.189
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.106.190.145
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.106.190.146
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.106.198.75
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.106.207.143
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.106.240.120
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.111.123.92
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.111.199.221
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.111.199.222
@@ -6149,7 +6145,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.255.164.20
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.255.172.197
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.255.172.50
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.27.100.199
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.27.100.21
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.27.100.214
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.27.17.227
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.27.70.10
