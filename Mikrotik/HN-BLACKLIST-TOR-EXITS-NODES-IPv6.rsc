@@ -5,7 +5,7 @@
 # Maintainer URL  : https://fissionrelays.net/
 # Category        : tor exits nodes
 #
-# Last Update     : 2023-02-24 01:35:55
+# Last Update     : 2023-02-25 01:36:45
 # Blacklist       : TOR-EXITS-NODES-IPv6
 #
 # ABOUT CONTACT:
@@ -715,6 +715,7 @@ add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2620:7:6001::e664
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2620:7:6001::ffff:c759:e64a
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2620:7:6001::ffff:c759:e64c
+add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2620:7:6001::ffff:c759:e64d
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2620:7:6001::ffff:c759:e64f
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2620:7:6001::ffff:c759:e640
 add list=HN-BLACKLIST-TOR-EXITS-NODES-IPv6 comment=TOR-EXITS-NODES-IPv6 address=2620:7:6001::ffff:c759:e641
