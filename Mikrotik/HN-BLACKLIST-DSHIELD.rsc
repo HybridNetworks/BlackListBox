@@ -5,7 +5,7 @@
 # Maintainer URL  : https://dshield.org/
 # Category        : attacks
 #
-# Last Update     : 2023-02-26 01:44:48
+# Last Update     : 2023-02-27 01:38:27
 # Blacklist       : DSHIELD
 #
 # ABOUT CONTACT:
