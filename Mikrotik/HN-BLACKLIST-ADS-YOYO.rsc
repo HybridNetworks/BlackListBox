@@ -5,7 +5,7 @@
 # Maintainer URL  : https://yoyo.org/
 # Category        : adservers
 #
-# Last Update     : 2023-03-24 01:20:54
+# Last Update     : 2023-03-25 01:19:04
 # Blacklist       : PGL-YOYO-ADS
 #
 # ABOUT CONTACT:
@@ -1608,7 +1608,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=195.140.186.183
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=195.146.100.126
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=195.149.105.37
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=195.151.251.41
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=195.158.241.11
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=195.161.119.52
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=195.161.119.84
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=195.161.119.85
@@ -3432,7 +3431,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.155.156.189
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.156.62.144
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.156.62.167
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.160.98.232
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.162.50.10
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.162.50.236
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.163.8.234
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.165.94.88
@@ -3593,7 +3591,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.86.246.22
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.86.55.146
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.86.55.161
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.86.59.1
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.91.8.215
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.92.100.171
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.92.80.5
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=213.95.1.41
