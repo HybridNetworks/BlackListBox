@@ -5,7 +5,7 @@
 # Maintainer URL  : https://fissionrelays.net/
 # Category        : tor relays
 #
-# Last Update     : 2023-04-01 01:21:59
+# Last Update     : 2023-04-02 01:22:32
 # Blacklist       : TOR-RELAYS-IPv6
 #
 # ABOUT CONTACT:
@@ -26,7 +26,6 @@
 
 /ipv6 firewall address-list
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0a:4cc0:0:e35:c4dd:60ff:fe34:7d02
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0a:4cc0:0:fb6:200::208
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0a:4cc0:1:2e8:430:d0ff:fe16:af4f
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0a:51c0:0:6d::175
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0a:51c0:0:136::2
@@ -248,10 +247,10 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:1bc1:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:1bc1:56:1000::dbb:77db
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:1bc1:56:1000::f1a:87b2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:1d80:1:5d9::1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:97c0:3e3:437::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:1580:1000::2dff:fe0e:e9a0
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:1580:1000::2dff:fe0e:e99f
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:1580:1000::2dff:fe0e:e995
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:5100:e1c0:503::13
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:a6c1:0:2100:87:237:165:31
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:b102:170:50::40
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0e:b102:170:50::41
@@ -264,9 +263,12 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:6b40:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:85c1:31:6969::
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:5707:aa81:ffff:ffff:ffff:125a:a70a
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:5707:aaf1:1a4::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:5707:aaf1:6e::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:5707:aaf1:64a::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:5707:aaf1:85c::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:5707:aaf1:408::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:5707:aaf1:ccb::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:9400:700f:75c6::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:df00:0:255::194
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:df00:0:255::195
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a0f:df00:0:255::196
@@ -315,7 +317,6 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:8a84:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:8dc0:aa00::19
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:11c0:1c:311::5
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:11c0:1f:1::55
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:63c1:10:41::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:63c1:10:190::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:63c1:13:140::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:63c1:13:148::2
@@ -335,7 +336,6 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:1838:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:1838:36:115::8a3d
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:1908:ffff:fffe:4c60:4fff:fef5:5cec
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:2381:24f2:0:215:5dff:fec8:3603
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:5884:8305::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:5884:8372:1::a0d
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:6020:b2c5:d87d:bbbb:bad4:5326:3d78
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:6800:3:6cb::
@@ -344,6 +344,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:6800:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:6800:3:35b::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:6800:3:49::
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:6800:3:71d::
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:6800:3:74b::1111
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:6800:3:382::
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:6800:3:481::
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:6800:3:603::1
@@ -388,8 +389,8 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a00:fa40:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4a0:72:1a::2579
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c0c:6c6b::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c0c:6f8c::1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c0c:7de3::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c0c:7fe9::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c0c:75d8::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c0c:453a::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c0c:4162::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c0c:5035::1
@@ -399,11 +400,15 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:2ca4::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:2e49::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:5d59::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:7f41::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:9d01::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:31b5::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:43c::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:326a::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:425a::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:2170::2
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:9026::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:b4ce::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:b16b::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1c:bba4::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1c1e:4a27::1
@@ -450,7 +455,6 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:150:1141::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:151:2324::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:160:82d4::2
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:160:83c4::3
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:160:8410::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:160:8410::3
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:160:9202::2
@@ -505,7 +509,6 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:210:504b::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:211:1d41::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:212:1b8b:3::8
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:221:1ac1:dead:beef:7005:9001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:221:39a2::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:221:300e::3
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f8:221:543::2
@@ -618,7 +621,6 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:6abe::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:6b27::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:8bcc::1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:8fb::bee
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:9b66::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:9cbb::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:9d66::1
@@ -628,7 +630,9 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:49b::159
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:54f8::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:71a9::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:82e4::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:89f::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:121f::8443
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:513::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:516b::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:607c::1
@@ -644,15 +648,19 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:bf0a::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:e041::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c010:e608::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c011:1c3::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c011:9e93::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c011:9f3c::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c011:38e7::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c011:344::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c011:3711::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c011:5309::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c011:9360::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c011:baaf::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c012:4a9a::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c012:576b::1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c012:d706::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c012:6501::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4f9:c012:7412::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4ff:1f0:c23e::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4ff:f0:1a40::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:4ff:f0:8ebc::1
@@ -717,7 +725,9 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:8740:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:a500:2766::2e08:6313
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:a500:2766::7e03:7633
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:aee0:2:1::6a
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:c23:61ad:8300:4a21:bff:fe36:5c1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:c22:774c:cf03:2035:784e:1efc:b7bd
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:c22:b1b0:2100:4a21:bff:fe36:5c1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:c23:91ae:9400:ba85:84ff:fec1:7b6e
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:cb14:604:6700::18c5
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:cb14:604:6700::1545
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:cb14:b8:df00::2000
@@ -727,10 +737,11 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:5
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:5d6:6de0:3:3:3:3
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:5e4:1d0::acab
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:16:b821:c0ff:ee:717:717
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:171:ffa0:884:4dcc:b802:80df
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:171:ffa0:a85:e088:e965:9d00
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:212:5f50:76ce:2825:9c75:d720
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:220:2320:dea6:32ff:febd:15a3
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:240:6790:68e8:c3b5:c97f:11f2
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:281:be00:1ac0:4dff:fe23:e65c
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:290:9b20:431b:bfe7:cb29:99d7
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:335:c750:387c:20a2:a70f:33f6
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a01:e0a:b5:7f50:7278:4422:dc14:89ea
@@ -788,6 +799,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:168:6
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:168:6a16:1130::32:102
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:168:6f7f:20::1111
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:168:6f7f:20::3333
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:168:6f7f:20::5555
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:168:83d4:7777:44bd:c9ff:fe2e:3165
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:168:83d4:7777:48b6:8fff:feb0:bb1e
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:168:6426::11
@@ -851,6 +863,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:a46c:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:a446:5ef1:1:d072:53ff:fef4:ea59
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:a461:156a:1:d7a8:ef05:5726:2eac
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:a468:8d92:1::baf
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:a469:a88b:1:5a9c:fcff:fe04:34c2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:b08:0:2::17
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:b08:0:2::19
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a02:b98:f181:1f2b:ba27:ebff:feb7:f806
@@ -952,6 +965,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:1c:45:2817:22ff:fe32:ac8b
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:1c:79d::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:1c:a0:1421:eaff:fe45:fa99
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:1d:46d::483
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:1d:b7a:782f:17ff:fef0:a708
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:1d:b56:5850:c5ff:feca:c5b0
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:1e:3e:34ce:4cff:fe57:263
@@ -964,6 +978,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:1e:de:80e:f2ff:fe04:a161
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:2:ba4:88e9:eff:fe89:3637
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:2:e5::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:2a:d6:949c:84ff:fe0c:84ba
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:2b:66e:dead:beef:ca1f:1337
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:2b:673:24da:28ff:feb5:e5c5
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:3e:568:446c:e7ff:fe7d:de4f
@@ -979,7 +994,6 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:4d:f78:98ca:2ff:fe35:798d
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:4e:c87::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:4e:f48:54ac:99ff:fee4:b238
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:4e:fa5::4
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:4f:9dd:941d:48ff:fe68:323d
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:4f:d24:783a:fbff:fe17:6191
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:5:20:3467:a5ff:fe26:453e
@@ -1129,7 +1143,6 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:69:d77:1869:5aff:fe29:fa22
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:69:e5b:a4ec:edff:fed8:ed74
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:69:e40::1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:a:62:98fc:cbff:fe5d:f1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:a:71:dead:beef:0:1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:a:72::1337
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:4000:f:4c:e878:7fff:fe35:105d
@@ -1147,10 +1160,12 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:1:d0::bfe:8001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:2:d0::13d8:4001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:2:d0::14cb:6001
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:2:d0::1055:8001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:2:d0::1220:8001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:2:d0::cf6:1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:2:d0::f43:5001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:2:d0::fa0:9001
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:2:d0::fae:c001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:2:f0::1bc:9001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:2:f0::6:c001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a03:b0c0:2:f0::363:d001
@@ -1213,6 +1228,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a04:9dc0:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a04:9dc0:31::c0cc:54
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a04:9dc0:31::c0cc:58
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a04:9dc0:31::c0cc:97
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a04:9dc0:31::c0cc:e9
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a04:52c0:101:46a::
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a04:52c0:101:164::99
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a04:52c0:101:569::
@@ -1272,12 +1288,8 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:9406:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:d01c:ac5:8100:6bf4:80ca:8500:db07
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:dfc7:40a9::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:dfc7:40d3::1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:dfc7:402a::1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:dfc7:403c::1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:dfc7:404a::1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:dfc7:4041::1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:dfc7:4077::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:f6c7:7155::12ad
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:f480:1800:c72:5400:4ff:fe10:610b
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:f480:2000:1f1b:5400:4ff:fe57:75f6
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:f480:2000:257f:5400:4ff:fe5e:390c
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2a05:f480:2000:296e:5400:4ff:fe2c:37a5
@@ -1448,35 +1460,39 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:8d8:1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:8d8:1801:8740::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:9b1:28fd:bb03:0:6c69:6e6f:6465
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:9b1:28fd:bb03:7374:656c:6c76:6961
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:9b1:29ff:9100:752f:c781:38d2:ec92
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:9b1:403c:0:ffff:d3da:5c99:8455
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:9e8:2743:ae00:e65f:1ff:fe00:96c5
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:9e8:a1:4500:d250:99ff:fec2:ffb3
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:9e8:2769:4800:e65f:1ff:fe00:96c5
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:9e8:bc:5c00:d250:99ff:fec2:ffb3
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:13d8:1c01:1000:7285:c2ff:fe33:cee6
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:14ba:ab01:9182::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5:3f28:5400:4ff:fe02:9c74
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5:27af:5400:4ff:fe10:6101
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5:53f6:5400:4ff:fe11:b4b2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5:645b:5400:4ff:fe5e:f94f
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5c00:1c45:5400:4ff:fe0f:dc3d
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5c01:1ff3:5400:4ff:fe50:43f9
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5c01:18d9:5400:3ff:fe6c:8be8
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5c01:a8:5400:4ff:fe21:4663
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:6c01:e9a:5400:3ff:fe8d:b35f
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:1000:1b58:5400:4ff:fe58:b748
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:4400:69b1:5400:3ff:febb:2687
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:4400:76e7:5400:3ff:feff:d84e
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5001:3d94:5400:3ff:fe7d:64dc
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5001:1407:9ca7:5a76:6661:8409
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5401:29c0:5400:4ff:fe3b:517d
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5401:d0e:5400:4ff:fe45:90d2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:5801:67d:5400:4ff:fe59:f9e9
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:6001:5ba4:5400:4ff:fe10:6106
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:6001:13af:5400:2ff:fe26:aef
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:6001:24c2:5400:4ff:fe06:6156
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:6001:25ce:5400:4ff:fe06:6158
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:6001:32c1:5400:4ff:fe3b:b294
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:6001:50ec:5400:4ff:fe18:6cbb
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:6001:831:5400:4ff:fe06:6157
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:6001:3407:5400:4ff:fe06:6159
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:6401:11b9:5400:4ff:fe59:3144
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:7002:131d:5400:3ff:fe66:c81
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:8001:14ad:5400:4ff:fe50:440e
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:8001:f60:5400:3ff:fea9:8ed1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:9002:3c9:5400:3ff:fed4:31c9
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:19f0:b002:ce9:5400:4ff:fe50:2678
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:40e8:0:f090::100
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:41c8:51:194:feff:ff:fe00:352
@@ -1529,6 +1545,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:41d0:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:41d0:601:1100::5975
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:41d0:602:caf::
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:41d0:700:5bd::
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:41d0:700:5fd4::2759
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:41d0:700:62bd::598a:c750
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:41d0:700:62bd::7465:a380
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:41d0:700:482a:2cfc:bdc:9917:1
@@ -1795,11 +1812,10 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:4652:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:4801:7825:102:be76:4eff:fe10:552
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:4858:aaad:4:0:c0:ffee:1111
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:4858:aaad:4:0:c0:ffee:4444
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:a61:43a:e801:d423:24ff:9880:e2db
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:ac8:37:6f:0:1:1496:6642
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:a61:466:5b01:d423:24ff:9880:e2db
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:b011:4006:12b6::b
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:b011:c:dce7:bf:bcb2:da35:afd0
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:b07:5d29:9575:2421:ca22:4b2:a431
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:b07:5d33:e4e:4dc3:9abf:8c9b:499
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:b07:5d33:e4e:5b2f:1e2f:3b1d:4eed
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:ba0:1800:1d9::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:ba0:1800:1fc::1
@@ -1821,6 +1837,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:ba0:1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:ba0:1800:fe::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:ba8:1f1:f05d::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:ba8:1f1:f166::2
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:ba8:1f1:f168::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:bc8:2dd2:1000::a
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:bc8:2dd2:2000::a
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:bc8:2ecd:caed:746f:7200:746f:7200
@@ -1842,7 +1859,6 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:bc8:6
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:bc8:182c:43::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:bc8:182c:51::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:bc8:182c:916::1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:bc8:208a::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:bc8:600:60c::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:bc8:600:2340::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2001:bc8:600:e2d::1
@@ -1882,7 +1898,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2003:a:150
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2003:a:b5a:6100:11:32ff:fe2b:36b4
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2003:c0:bf24:8f00:724d:514b:d1ab:21de
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2003:c0:bf24:8f00:cf55:8c5e:9073:4796
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2003:d5:af3a:8e00:11:32ff:fe2c:3ea1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2003:cf:474c:5000:8c01:76ff:fea7:2e8b
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2003:de:2727:2301:4a4f:51f5:a932:a9aa
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2003:df:e709:c6f1:0:ff:fe00:68
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2003:e0:732:2f00:1c55:76ff:fee5:5804
@@ -1935,16 +1951,17 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:2b00:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c00::f03c:91ff:fe96:1cd9
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c00::f03c:91ff:fee9:6481
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c00::f03c:92ff:fe25:5835
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c00::f03c:92ff:fe27:74b7
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c00::f03c:92ff:fe97:c70b
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c00::f03c:93ff:fe2b:34f6
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c00::f03c:93ff:fe73:c4e9
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c00::f03c:93ff:feb7:733d
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c00:e001:23ff:0:ba:bb1e:face
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c01::f03c:91ff:fedf:8cc1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c01::f03c:91ff:fee7:ec0e
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c01::f03c:92ff:fe27:f4c8
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c01::f03c:92ff:fe37:163e
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c01::f03c:93ff:fe1c:36a1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c01::f03c:93ff:fe6a:83b3
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c01::f03c:93ff:fe25:b23e
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c01::f03c:93ff:fef5:5ba7
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c01::f03c:93ff:fef7:a3c2
@@ -1953,6 +1970,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c01:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c02::f03c:91ff:fe2d:54c3
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c02::f03c:92ff:feb9:4fac
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c02::f03c:92ff:fed1:4cc7
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c02::f03c:93ff:fe64:fbb4
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c02::f03c:93ff:fe97:5166
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03::f03c:91ff:fe8d:a3a
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03::f03c:91ff:fe16:8f3e
@@ -1961,7 +1979,9 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03::f03c:91ff:fe73:8ad1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03::f03c:91ff:fe93:5318
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03::f03c:91ff:fe96:d927
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03::f03c:91ff:fedb:19ed
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03::f03c:91ff:fedf:407b
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03::f03c:91ff:fee7:bd31
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03::f03c:93ff:fe83:e6a0
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03::f03c:93ff:fed9:3504
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c03:e000:1fe::1
@@ -1975,14 +1995,12 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:3c04:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:1700:6b8:800:0:8000:0:3
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:1700:7be4:c030:1::67
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:1700:115f:300e::3:111
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:1700:511:c800::a
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:1700:5680:401e:50df:2cff:fec8:8a0d
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:1700:5680:401e:4013:fdff:fe51:c06
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:1700:a240:69d0:144b:c01d:ab27:a290
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:1700:c983:1000::2d7
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:1700:c983:1000::ea0
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:2104:1003:c5ab:dcdb:abff:fe3f:f90a
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:4040:2075:d301:21b:21ff:fe36:fd2e
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:4040:4520:e000:2c04:69ff:fe66:614d
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:4040:4520:e000:2c04:69ff:fe66:614e
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2600:8801:100:6::67d
@@ -2009,8 +2027,10 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2602:fc24:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2602:fc24:11:4441::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2602:fc24:11:7263::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2602:fc24:11:aabe::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2602:fc24:11:ac38::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2602:fc24:12:4f64::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2602:fc24:12:1609::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2602:fc24:12:1636::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2602:fc24:12:5258::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2602:fc24:13:1:e4f7:9065:89f1:981c
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2602:fc24:13:e::1234
@@ -2063,6 +2083,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:800d:8bff:6613:6cb5:af30:8bd5
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:800e:7a7e:122d:c8f9:8bd2:ae9b
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:800e:7a7e:d86:3260:da4b:eedb
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:4002:5000:738a:3b9a:d83f:7d1f
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:8000:6a00:2::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:8001:d000:974a:ef10:5d0f:5184
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:8002:5100:4d56:ebac:3c5d:a65b
@@ -2076,6 +2097,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:c007:81ff:9c25:39c6:1dd3:33fc
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:c007:cab:5235:2d:534b:31
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c020:c008:fcff:36e7:a1ec:cc48:42d7
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c021:0:9700:867::
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c021:1:1f69:43e2:46d4:a7d5:c42b
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c021:1:e6ee:7956:dfc6:e4f4:dcb
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c021:800a:dbaa:44bf:57b6:6ef6:3b1f
@@ -2084,6 +2106,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c021:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c021:8010:1200:7dae:7c74:b174:93c6
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c021:8010:1200:4495:6acc:6a38:a77
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c022:2:97ff:ea23:6cb6:a969:ff7f
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c022:3:16fe:d191:b6c:c1ce:4baa
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c022:c001:6eff:4be1:c987:15c:da63
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c022:c001:6801:841d:34be:e33a:cf15
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c022:c002:b0e:df68:94b3:52b1:5f2c
@@ -2105,6 +2128,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c027:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c027:c001:24ff:21d1:e097:3099:6f57
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c027:c001:b4ff:b6cd:ec14:b49c:307b
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c027:c001:ff:149e:4a2e:521f:de55
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2603:c027:c002:cd3c:4695:5db6:a69b:5ce4
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:2dc0:100:15ff::23d:d0fa
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:2dc0:101:200::1a34
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:2dc0:101:200::2d6
@@ -2146,11 +2170,12 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:2:d0::23c6:2001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:2:d0::218c:1001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:2:d0::2105:1001
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:4:1d0::1e2:9000
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:4:1d0::2dd:0
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:4:1d0::4f7:f000
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:4:1d0::6a2:3003
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:4:1d0::51:e000
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:4:1d0::295:9000
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:400:d0::17e8:7001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:400:d0::237f:f001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:400:d0::1516:c001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:800:10::1c4:7001
@@ -2162,9 +2187,11 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:cad:d0::4f:4009
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:cad:d0::9e3:9001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:cad:d0::6805:f001
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:a880:cad:d0::ea8:e001
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:b480:3:6::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:b480:fff7::248
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:b480:fff7::249
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2604:f440:6::b00b:135
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:9f80:2000:83::2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:2700:0:2:a800:ff:fe1d:5257
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:2700:0:2:a800:ff:fe2c:cd37
@@ -2200,7 +2227,6 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:e989:8835:bbb3:6816:b0c0
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:ea58:51a1:e174:d185:d6f1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:ea86:59b6:d4c6:5192:1a19
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:eb1f:535e:6564:1ae:bc23
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:ebb6:532:acc:65:31
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:edc3::34
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:ef7a:391a:8c71:a2f1:9506
@@ -2213,6 +2239,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f5db:25a1:b884:ef2d:8818
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f6b7::1337
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f7ca::2
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f8da:2b2:a293:30ad:506d
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f8e8:b7c1:9d5e:ab59:545c
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f8f5:20c6:dcb6:3c07:1c9e
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f9d0:8d45:cd51:c1aa:271f
@@ -2234,6 +2261,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f414:42ce:c612:dab8:1337
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f440:757e:adf1:55f7:5a31
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f503::1
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f623:5a78:29a6:8492:27b0
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f625:20:20:0:2
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f789:e82c:c670:578c:b588
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f858:2704:73e1:7085:12ef
@@ -2241,7 +2269,6 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f925:6edf:2b8e:5cfa:b784
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:f986:f96a:3b4d:e117:2050
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:fa92:5f11:1ed9:9615:fcc6
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:fb5a::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:30:fb10:d07b:edfd:2c84:bb4a
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:40:fb4a:58fa:acd4:7c37:4921
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:40:fb4f:47b9:9112:a5e4:59e5
@@ -2258,6 +2285,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:d814:34f4::5
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:d814:b591::106
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:d814:df0a::106
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:6400:d814:fea4::
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:7380:1000:1310:9c7e:f3ff:fed0:7e8c
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:a140:2050:8019::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2605:a140:3010:4014::1
@@ -2304,7 +2332,7 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2607:f1c0:
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2607:f1c0:1800:fd::1
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2607:f130:0:15c::16a4:d9df
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2607:f130:0:105:ff:ff:5c5e:6ac1
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2607:f130:0:f6:ff:ff:421f:a12b
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2607:f130:0:ee::347e:2640
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2607:f298:5:101d:f816:3eff:fe81:4fa0
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2607:f530:8002::19
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2607:f598:f001::33
@@ -2436,15 +2464,15 @@ add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::147
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::148
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::149
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::211
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::210
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::212
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::213
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::214
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::215
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::216
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::218
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::222
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::223
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::219
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::220
+add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::225
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::226
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::228
-add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:18c:0:192::229
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:59:a000:9666:216:3eff:fe7d:dae8
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2620:b0:2000:102::7
 add list=HN-BLACKLIST-TOR-RELAYS-IPv6 comment=TOR-RELAYS-IPv6 address=2804:51e0:1100::1:3ba7
