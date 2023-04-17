@@ -5,7 +5,7 @@
 # Maintainer URL  : https://myip.ms/
 # Category        : abuse, webbot
 #
-# Last Update     : 2023-04-16 01:23:51
+# Last Update     : 2023-04-17 01:20:03
 # Blacklist       : MYIPMS-DATABASE-IPv6
 #
 # ABOUT CONTACT:
@@ -25,7 +25,6 @@
 # ============================================================
 
 /ipv6 firewall address-list
-add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2001:448a:2042:570e:b597:275e:6a1a:58cf
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2401:4900:1c65:4d7e:98c7:fc49:d690:ebef
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a01:4f8:160:71a1::2
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2401:4900:1c63:8a8f:c00a:ffb0:8f60:c1bd
