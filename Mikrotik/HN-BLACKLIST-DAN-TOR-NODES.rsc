@@ -5,7 +5,7 @@
 # Maintainer URL  : https://www.dan.me.uk/
 # Category        : anonymizers, tor
 #
-# Last Update     : 2023-06-30 01:47:49
+# Last Update     : 2023-07-01 01:58:40
 # Blacklist       : DYNAMIC-TOR-NODES
 #
 # ABOUT CONTACT:
