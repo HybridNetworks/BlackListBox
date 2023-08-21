@@ -5,7 +5,7 @@
 # Maintainer URL  : https://github.com/stamparm/ipsum
 # Category        : attacks, wordpress
 #
-# Last Update     : 2023-08-20 01:08:36
+# Last Update     : 2023-08-21 01:05:56
 # Blacklist       : IPsum-Threat-Intelligence-Feed
 #
 # ABOUT CONTACT:
