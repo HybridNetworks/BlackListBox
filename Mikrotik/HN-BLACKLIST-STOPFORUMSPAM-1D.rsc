@@ -5,7 +5,7 @@
 # Maintainer URL  : http://www.stopforumspam.com/
 # Category        : abuse
 #
-# Last Update     : 2023-09-08 01:08:17
+# Last Update     : 2023-09-09 01:05:36
 # Blacklist       : STOP-FORUM-SPAM-1D
 #
 # ABOUT CONTACT:
