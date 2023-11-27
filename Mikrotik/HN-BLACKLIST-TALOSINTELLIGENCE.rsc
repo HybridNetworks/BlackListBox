@@ -5,7 +5,7 @@
 # Maintainer URL  : https://talosintelligence.com
 # Category        : reputation
 #
-# Last Update     : 2023-11-26 01:16:16
+# Last Update     : 2023-11-27 01:12:46
 # Blacklist       : TALOSINTELLIGENCE-IP-BLACKLIST
 #
 # ABOUT CONTACT:
