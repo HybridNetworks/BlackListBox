@@ -1,11 +1,11 @@
 # ============================================================
-# (C) 2011-2023 HybridNetworks Ltd. -- All Rights Reserved
+# (C) 2011-2024 HybridNetworks Ltd. -- All Rights Reserved
 #
 # Maintainer      : Pushing Inertia
 # Maintainer URL  : http://pushinginertia.com/
 # Category        : reputation, bots, spiders, scrapers
 #
-# Last Update     : 2023-12-31 01:16:48
+# Last Update     : 2024-01-01 01:18:32
 # Blacklist       : PUSHING-INERTIA
 #
 # ABOUT CONTACT:

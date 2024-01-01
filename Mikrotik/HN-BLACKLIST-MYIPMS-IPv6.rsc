@@ -1,11 +1,11 @@
 # ============================================================
-# (C) 2011-2023 HybridNetworks Ltd. -- All Rights Reserved
+# (C) 2011-2024 HybridNetworks Ltd. -- All Rights Reserved
 #
 # Maintainer      : My IP Address | Blacklist IP
 # Maintainer URL  : https://myip.ms/
 # Category        : abuse, webbot
 #
-# Last Update     : 2023-12-31 01:16:32
+# Last Update     : 2024-01-01 01:18:13
 # Blacklist       : MYIPMS-DATABASE-IPv6
 #
 # ABOUT CONTACT:
@@ -25,8 +25,6 @@
 # ============================================================
 
 /ipv6 firewall address-list
-add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2400:8d60:2::1:eb03:5883
-add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2406:7400:98:3a92:f93c:d7a5:a893:266f
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2407:d000:503:ed20:a887:a116:313c:aaad
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a00:f29:248:70d2:107b:4ff7:55b7:2aa
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2001:16a2:c054:dc7f:f1cc:801d:7d9c:36aa

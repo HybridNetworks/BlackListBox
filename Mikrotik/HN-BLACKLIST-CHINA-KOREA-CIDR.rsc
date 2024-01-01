@@ -1,11 +1,11 @@
 # ============================================================
-# (C) 2011-2023 HybridNetworks Ltd. -- All Rights Reserved
+# (C) 2011-2024 HybridNetworks Ltd. -- All Rights Reserved
 #
 # Maintainer      : Okean
 # Maintainer URL  : https://www.okean.com/
 # Category        : cidr
 #
-# Last Update     : 2023-12-31 01:16:34
+# Last Update     : 2024-01-01 01:18:15
 # Blacklist       : CHINA-KOREA-CIDR-BLOCKS
 #
 # ABOUT CONTACT:

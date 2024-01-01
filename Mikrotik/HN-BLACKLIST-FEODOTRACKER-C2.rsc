@@ -1,11 +1,11 @@
 # ============================================================
-# (C) 2011-2023 HybridNetworks Ltd. -- All Rights Reserved
+# (C) 2011-2024 HybridNetworks Ltd. -- All Rights Reserved
 #
 # Maintainer      : Feodo Tracker by Abuse.ch
 # Maintainer URL  : https://feodotracker.abuse.ch/
 # Category        : malware, botnet
 #
-# Last Update     : 2023-12-31 01:16:31
+# Last Update     : 2024-01-01 01:18:10
 # Blacklist       : FEODOTRACKER-C2
 #
 # ABOUT CONTACT:
@@ -27,4 +27,5 @@
 /ip firewall address-list
 add list=HN-BLACKLIST-FEODOTRACKER-C2 comment=FEODOTRACKER-C2 address=154.221.30.136
 add list=HN-BLACKLIST-FEODOTRACKER-C2 comment=FEODOTRACKER-C2 address=192.9.135.73
+add list=HN-BLACKLIST-FEODOTRACKER-C2 comment=FEODOTRACKER-C2 address=196.218.123.202
 add list=HN-BLACKLIST-FEODOTRACKER-C2 comment=FEODOTRACKER-C2 address=51.161.81.190
