@@ -5,7 +5,7 @@
 # Maintainer URL  : https://github.com/Ultimate-Hosts-Blacklist/
 # Category        : attacks, wordpress
 #
-# Last Update     : 2024-02-12 01:08:32
+# Last Update     : 2024-02-13 01:08:46
 # Blacklist       : TOP-ATTACK-WPS
 #
 # ABOUT CONTACT:
