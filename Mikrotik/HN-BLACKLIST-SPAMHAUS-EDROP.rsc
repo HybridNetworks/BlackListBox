@@ -5,7 +5,7 @@
 # Maintainer URL  : https://spamhaus.org/
 # Category        : reputation
 #
-# Last Update     : 2024-04-27 01:09:54
+# Last Update     : 2024-04-28 01:16:08
 # Blacklist       : SPAMHAUS-EDROP
 #
 # ABOUT CONTACT:
