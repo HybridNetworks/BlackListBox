@@ -5,7 +5,7 @@
 # Maintainer URL  : https://cinsscore.com/
 # Category        : reputation, compromised
 #
-# Last Update     : 2024-07-14 01:25:14
+# Last Update     : 2024-07-15 01:21:40
 # Blacklist       : CI-BADGUYS-BLACKLIST
 #
 # ABOUT CONTACT:
