@@ -97,18 +97,6 @@
           "protocol": "IPv4"
       },
       {
-          "maintainer": "The Spamhaus Project",
-          "mainurl": "https://spamhaus.org/",
-          "category": "reputation",
-          "url": "https://www.spamhaus.org/drop/edrop.txt",
-          "list": "HN-BLACKLIST-SPAMHAUS-EDROP",
-          "comment": "SPAMHAUS-EDROP",
-          "delimiter": "",
-          "mask": true,
-          "subnet": "",
-          "protocol": "IPv4"
-      },
-      {
           "maintainer": "DShield | Internet Security",
           "mainurl": "https://dshield.org/",
           "category": "attacks",
