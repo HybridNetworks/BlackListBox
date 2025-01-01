@@ -328,7 +328,7 @@
           "maintainer": "Cisco Talos Intelligence Group",
           "mainurl": "https://talosintelligence.com",
           "category": "reputation",
-          "url": "http://www.talosintelligence.com/documents/ip-blacklist",
+          "url": "https://snort-org-site.s3.amazonaws.com/production/document_files/files/000/036/031/original/ip-filter.blf",
           "list": "HN-BLACKLIST-TALOSINTELLIGENCE",
           "comment": "TALOSINTELLIGENCE-IP-BLACKLIST",
           "delimiter": "",
