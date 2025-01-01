@@ -1,11 +1,11 @@
 # ============================================================
-# (C) 2011-2024 HybridNetworks Ltd. -- All Rights Reserved
+# (C) 2011-2025 HybridNetworks Ltd. -- All Rights Reserved
 #
 # Maintainer      : The Spamhaus Project
 # Maintainer URL  : https://spamhaus.org/
 # Category        : reputation
 #
-# Last Update     : 2024-12-31 01:36:56
+# Last Update     : 2025-01-01 01:44:51
 # Blacklist       : SPAMHAUS-EDROP
 #
 # ABOUT CONTACT:

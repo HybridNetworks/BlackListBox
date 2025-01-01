@@ -1,11 +1,11 @@
 # ============================================================
-# (C) 2011-2024 HybridNetworks Ltd. -- All Rights Reserved
+# (C) 2011-2025 HybridNetworks Ltd. -- All Rights Reserved
 #
 # Maintainer      : Yoyo Internet Services
 # Maintainer URL  : https://yoyo.org/
 # Category        : adservers
 #
-# Last Update     : 2024-12-31 01:36:58
+# Last Update     : 2025-01-01 01:44:55
 # Blacklist       : PGL-YOYO-ADS
 #
 # ABOUT CONTACT:
