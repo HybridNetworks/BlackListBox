@@ -5,7 +5,7 @@
 # Maintainer URL  : https://feodotracker.abuse.ch/
 # Category        : malware, botnet
 #
-# Last Update     : 2025-02-28 01:40:27
+# Last Update     : 2025-03-01 01:45:57
 # Blacklist       : FEODOTRACKER-C2-IOCs
 #
 # ABOUT CONTACT:
@@ -25,5 +25,4 @@
 # ============================================================
 
 /ip firewall address-list
-add list=HN-BLACKLIST-FEODOTRACKER-C2-IOCs comment=FEODOTRACKER-C2-IOCs address=5.253.59.162
 add list=HN-BLACKLIST-FEODOTRACKER-C2-IOCs comment=FEODOTRACKER-C2-IOCs address=79.137.13.24
