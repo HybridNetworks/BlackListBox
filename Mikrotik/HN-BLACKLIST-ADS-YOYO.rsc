@@ -5,7 +5,7 @@
 # Maintainer URL  : https://yoyo.org/
 # Category        : adservers
 #
-# Last Update     : 2025-04-04 01:44:58
+# Last Update     : 2025-04-05 01:43:22
 # Blacklist       : PGL-YOYO-ADS
 #
 # ABOUT CONTACT:
@@ -1962,7 +1962,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=204.11.56.21
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=204.12.68.104
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=204.12.89.69
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=204.12.89.76
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=204.128.175.252
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=204.13.160.129
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=204.13.160.131
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=204.13.160.134
