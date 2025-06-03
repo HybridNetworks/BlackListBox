@@ -5,7 +5,7 @@
 # Maintainer URL  : https://www.okean.com/
 # Category        : cidr
 #
-# Last Update     : 2025-06-02 01:58:53
+# Last Update     : 2025-06-03 01:55:44
 # Blacklist       : CHINA-CIDR-BLOCKS
 #
 # ABOUT CONTACT:
