@@ -5,7 +5,7 @@
 # Maintainer URL  : https://dshield.org/
 # Category        : attacks
 #
-# Last Update     : 2025-10-07 01:42:47
+# Last Update     : 2025-10-08 01:43:14
 # Blacklist       : DSHIELD
 #
 # ABOUT CONTACT:
@@ -28,19 +28,19 @@
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=204.76.203.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=66.175.210.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=79.110.63.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=71.6.232.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=93.152.230.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=195.178.110.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=71.6.232.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=167.94.138.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=193.163.125.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=167.94.146.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=65.49.1.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=176.65.148.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=194.180.48.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=64.62.156.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=78.128.114.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=193.163.125.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=45.142.154.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=206.168.34.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=176.65.148.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=194.180.48.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=65.49.1.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=64.62.156.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=198.235.24.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=66.240.192.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=79.124.49.0/24
