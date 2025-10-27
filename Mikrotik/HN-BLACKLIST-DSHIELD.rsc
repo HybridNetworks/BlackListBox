@@ -5,7 +5,7 @@
 # Maintainer URL  : https://dshield.org/
 # Category        : attacks
 #
-# Last Update     : 2025-10-26 01:53:36
+# Last Update     : 2025-10-27 01:57:35
 # Blacklist       : DSHIELD
 #
 # ABOUT CONTACT:
@@ -28,20 +28,20 @@
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=109.236.61.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=79.124.49.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=65.49.1.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=206.168.34.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=167.94.138.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=206.168.34.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=193.163.125.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=146.88.241.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=93.152.230.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=207.90.244.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=146.88.241.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=204.76.203.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=207.90.244.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=205.210.31.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=194.180.48.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=176.65.149.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=195.178.110.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=194.180.48.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=64.62.156.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=199.45.154.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=167.94.146.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=167.94.145.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=198.235.24.0/24
+add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=199.45.154.0/24
 add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=87.120.191.0/24
-add list=HN-BLACKLIST-DSHIELD comment=DSHIELD address=103.252.89.0/24
