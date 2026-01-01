@@ -1,11 +1,11 @@
 # ============================================================
-# (C) 2011-2025 HybridNetworks Ltd. -- All Rights Reserved
+# (C) 2011-2026 HybridNetworks Ltd. -- All Rights Reserved
 #
 # Maintainer      : Ultimate Hosts Blacklist
 # Maintainer URL  : https://github.com/Ultimate-Hosts-Blacklist/
 # Category        : attacks, wordpress
 #
-# Last Update     : 2025-12-31 02:01:34
+# Last Update     : 2026-01-01 02:12:19
 # Blacklist       : TOP-ATTACK-WPS
 #
 # ABOUT CONTACT:
