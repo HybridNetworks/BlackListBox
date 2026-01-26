@@ -5,7 +5,7 @@
 # Maintainer URL  : https://proofpoint.com/
 # Category        : reputation, attacks, compromised
 #
-# Last Update     : 2026-01-25 02:21:53
+# Last Update     : 2026-01-26 02:20:49
 # Blacklist       : EMERGINGTHREATS-COMPROMISED-IPS
 #
 # ABOUT CONTACT:
