@@ -5,7 +5,7 @@
 # Maintainer URL  : https://feodotracker.abuse.ch/
 # Category        : malware, botnet
 #
-# Last Update     : 2026-05-04 03:38:55
+# Last Update     : 2026-05-05 03:25:30
 # Blacklist       : FEODOTRACKER-C2
 #
 # ABOUT CONTACT:
