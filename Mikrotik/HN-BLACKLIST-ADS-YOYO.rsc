@@ -5,7 +5,7 @@
 # Maintainer URL  : https://yoyo.org/
 # Category        : adservers
 #
-# Last Update     : 2026-05-22 04:03:08
+# Last Update     : 2026-05-23 03:40:37
 # Blacklist       : PGL-YOYO-ADS
 #
 # ABOUT CONTACT:
@@ -5376,7 +5376,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=62.75.140.4
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=62.75.181.40
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=62.75.193.32
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=62.75.216.20
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=62.75.216.68
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=62.75.222.99
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=62.75.224.150
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=62.78.223.176
@@ -6321,7 +6320,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=66.235.139.207
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=66.235.139.54
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=66.235.139.62
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=66.235.139.70
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=66.235.148.88
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=66.235.160.74
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=66.235.214.252
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=66.236.129.73
@@ -6551,7 +6549,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=67.192.42.28
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=67.192.6.217
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=67.192.6.223
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=67.192.87.123
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=67.192.92.227
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=67.199.128.19
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=67.199.128.43
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=67.199.128.44
