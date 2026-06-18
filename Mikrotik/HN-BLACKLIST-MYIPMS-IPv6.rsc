@@ -5,7 +5,7 @@
 # Maintainer URL  : https://myip.ms/
 # Category        : abuse, webbot
 #
-# Last Update     : 2026-06-17 04:40:24
+# Last Update     : 2026-06-18 04:22:57
 # Blacklist       : MYIPMS-DATABASE-IPv6
 #
 # ABOUT CONTACT:
@@ -25,8 +25,6 @@
 # ============================================================
 
 /ipv6 firewall address-list
-add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2600:1f28:365:80b0:d10a:e62b:abcd:c8ce
-add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2602:fa59:9:521::1
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2401:4900:c01a:bbd4:981f:691a:2898:4c44
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2402:8100:29a0:29eb:9445:876d:221c:88ec
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2607:5300:400:fa00:e6f3:894f:2c26:db65
@@ -66,9 +64,12 @@ add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2401:4900
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a02:587:721f:905:1cf3:18ca:e5c9:401a
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2600:1f28:365:80b0:75ad:aeea:19c7:a4f2
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2407:aa80:314:b47a:a023:ebea:b04e:e8da
-add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a10:4646:190::8dc7:169
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a10:4646:190::c4d:e84a
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a10:4646:190::e5d4:7524
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a10:4646:190::af4f:1a36
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2600:1f28:365:80b0:720c:be65:5277:1608
 add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2600:1f28:365:80b0:e704:f646:c9af:aa59
+add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a10:4646:190::8dc7:169
+add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2001:ee0:dcb5:7cc0:e54d:2562:ee86:11fd
+add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a10:4646:190::aea5:c389
+add list=HN-BLACKLIST-MYIPMS-IPv6 comment=MYIPMS-DATABASE-IPv6 address=2a0c:9f00:a000:7c94::1
