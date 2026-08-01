@@ -5,7 +5,7 @@
 # Maintainer URL  : https://yoyo.org/
 # Category        : adservers
 #
-# Last Update     : 2026-07-31 03:23:19
+# Last Update     : 2026-08-01 03:21:47
 # Blacklist       : PGL-YOYO-ADS
 #
 # ABOUT CONTACT:
@@ -177,8 +177,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=114.112.176.12
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=114.112.176.21
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=114.112.176.218
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=114.112.176.88
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=114.80.101.42
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=114.80.101.52
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=115.112.200.66
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=115.182.49.13
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=115.182.49.14
@@ -195,8 +193,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=115.238.137.250
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=115.239.210.151
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=116.55.241.240
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=116.55.241.250
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=117.135.134.17
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=117.135.134.88
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=117.21.191.223
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=117.21.224.236
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=117.21.227.34
@@ -1258,8 +1254,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=193.110.146.70
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=193.110.146.71
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=193.111.160.200
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=193.111.199.175
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=193.138.212.50
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=193.138.214.40
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=193.142.100.166
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=193.149.47.98
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=193.164.131.150
@@ -1735,7 +1729,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=199.15.160.37
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=199.181.132.207
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=199.181.132.250
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=199.181.132.80
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=199.182.216.202
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=199.19.200.170
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=199.19.200.172
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=199.193.10.100
@@ -2891,7 +2884,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=210.48.127.22
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=210.48.49.77
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=210.59.224.178
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=210.73.210.155
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=210.83.80.118
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=211.115.216.227
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=211.128.99.12
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=212.0.126.131
@@ -3001,7 +2993,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=212.239.14.211
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=212.24.155.211
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=212.242.252.93
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=212.250.162.55
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=212.254.206.50
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=212.27.48.10
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=212.27.63.127
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=212.3.243.139
@@ -5675,7 +5666,6 @@ add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.30.224.111
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.30.224.114
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.30.224.117
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.34.103.228
-add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.34.110.179
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.34.173.229
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.34.174.26
 add list=HN-BLACKLIST-ADS-YOYO comment=PGL-YOYO-ADS address=64.34.182.22
