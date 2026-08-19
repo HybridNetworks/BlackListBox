@@ -5,7 +5,7 @@
 # Maintainer URL  : https://firehol.org/
 # Category        : attacks
 #
-# Last Update     : 2026-08-18 01:24:37
+# Last Update     : 2026-08-19 01:26:06
 # Blacklist       : FIREHOL-LEVEL1
 #
 # ABOUT CONTACT:
