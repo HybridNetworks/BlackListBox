@@ -5,7 +5,7 @@
 # Maintainer URL  : http://pushinginertia.com/
 # Category        : reputation, bots, spiders, scrapers
 #
-# Last Update     : 2026-08-28 10:40:33
+# Last Update     : 2026-08-29 06:27:49
 # Blacklist       : PUSHING-INERTIA
 #
 # ABOUT CONTACT:
