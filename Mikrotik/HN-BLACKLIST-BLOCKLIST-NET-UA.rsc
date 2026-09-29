@@ -5,7 +5,7 @@
 # Maintainer URL  : https://blocklist.net.ua/
 # Category        : abuse, spam, bruteforce, attacks
 #
-# Last Update     : 2026-09-28 04:36:36
+# Last Update     : 2026-09-29 05:04:24
 # Blacklist       : BLOCKLIST-NET-UA
 #
 # ABOUT CONTACT:
