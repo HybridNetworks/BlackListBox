@@ -5,7 +5,7 @@
 # Maintainer URL  : https://spamhaus.org/
 # Category        : reputation, spam
 #
-# Last Update     : 2026-10-21 03:59:45
+# Last Update     : 2026-10-22 04:00:33
 # Blacklist       : SPAMHAUS-DROP
 #
 # ABOUT CONTACT:
@@ -642,6 +642,7 @@ add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=112.90.143.0/24
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=112.142.0.0/15
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=112.143.0.0/19
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=112.213.96.0/19
+add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=113.203.208.0/20
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=113.212.128.0/19
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=113.213.128.0/18
 add list=HN-BLACKLIST-SPAMHAUS comment=SPAMHAUS-DROP address=114.134.28.0/22
