@@ -5,7 +5,7 @@
 # Maintainer URL  : https://badips.com
 # Category        : malware
 #
-# Last Update     : 2026-11-15 05:40:30
+# Last Update     : 2026-11-16 05:40:45
 # Blacklist       : BADIPS
 #
 # ABOUT CONTACT:
