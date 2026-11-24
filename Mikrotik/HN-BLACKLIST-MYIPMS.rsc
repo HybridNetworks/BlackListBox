@@ -5,7 +5,7 @@
 # Maintainer URL  : https://myip.ms/
 # Category        : abuse, webbot
 #
-# Last Update     : 2026-11-23 06:43:00
+# Last Update     : 2026-11-24 09:10:03
 # Blacklist       : MYIPMS-DATABASE
 #
 # ABOUT CONTACT:
